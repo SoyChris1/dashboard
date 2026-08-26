@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:02:19.048439+00:00",
+  "generated_at": "2026-08-26T22:47:53.802568+00:00",
   "matches": {
     "valorant": [
       {
@@ -86,26 +86,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1638614,
-        "league": "Circuito Desafiante",
-        "tournament": "Playoffs",
-        "team_a": "7REX",
-        "team_b": "KaBuM! Ilha das Lendas",
-        "begin_at": "2026-08-26T20:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1636123,
-        "league": "North American Challengers League",
-        "tournament": "Playoffs",
-        "team_a": "Conviction",
-        "team_b": "Dorado Gaming",
-        "begin_at": "2026-08-26T21:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
         "id": 1629296,
         "league": "LCK",
         "tournament": "Play-In",
@@ -163,87 +143,107 @@
         "team_b": "devils.one inStreamly",
         "begin_at": "2026-08-27T15:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1643625,
+        "league": "LFL",
+        "tournament": "Playoffs",
+        "team_a": "Karmine Corp Blue",
+        "team_b": "Skillcamp Esport",
+        "begin_at": "2026-08-27T16:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1640229,
+        "league": "EBL",
+        "tournament": "Playoffs",
+        "team_a": "Lenovo Legion Honvéd",
+        "team_b": "The Secret Club",
+        "begin_at": "2026-08-27T16:00:00Z",
+        "status": "not_started"
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1651144,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Playoffs",
-        "team_a": "ALKA GAMING",
-        "team_b": "Hunters Rising",
-        "begin_at": "2026-08-26T18:30:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652181,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "JUMBO TEAM",
-        "team_b": "Honvéd",
-        "begin_at": "2026-08-26T19:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652180,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "Esport BERG",
-        "team_b": "VP.Prodigy",
-        "begin_at": "2026-08-26T19:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1651145,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Playoffs",
-        "team_a": "QUINTESSÊNCIA",
-        "team_b": "RED Canids Academy",
-        "begin_at": "2026-08-26T21:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1650495,
+        "id": 1650525,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "Isurus",
-        "team_b": "paiN Academy",
-        "begin_at": "2026-08-26T21:00:00Z",
+        "team_a": "Zomblers",
+        "team_b": "Incognito",
+        "begin_at": "2026-08-27T01:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650494,
+        "id": 1650524,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "ALKA GAMING",
-        "team_b": "Turma do Pagode",
-        "begin_at": "2026-08-26T21:00:00Z",
+        "team_a": "Elusive",
+        "team_b": "shimmer",
+        "begin_at": "2026-08-27T01:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650493,
+        "id": 1650523,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "MEIA NOITE",
-        "team_b": "BORRACHEIROS",
-        "begin_at": "2026-08-26T21:00:00Z",
+        "team_a": "Villainous",
+        "team_b": "Detonate",
+        "begin_at": "2026-08-27T01:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650492,
+        "id": 1650522,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "Peak Agency",
-        "team_b": "Yawara Esports",
-        "begin_at": "2026-08-26T21:00:00Z",
+        "team_a": "New Legends",
+        "team_b": "Club 333",
+        "begin_at": "2026-08-27T01:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650517,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "EMPIRE",
+        "team_b": "Chicken Coop Esports",
+        "begin_at": "2026-08-27T01:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650516,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Marsborne",
+        "team_b": "Iowa Stormboar",
+        "begin_at": "2026-08-27T01:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650515,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Overtake Sector",
+        "team_b": "NuTorious",
+        "begin_at": "2026-08-27T01:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650514,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Voca",
+        "team_b": "FarmVille",
+        "begin_at": "2026-08-27T01:00:00Z",
         "status": "not_started"
       }
     ]
