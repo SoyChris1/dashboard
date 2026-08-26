@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:54:58.883645+00:00",
+  "generated_at": "2026-08-26T14:44:36.623737+00:00",
   "matches": {
     "valorant": [
       {
@@ -86,16 +86,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1630215,
-        "league": "Hitpoint Masters",
-        "tournament": "Regular Season",
-        "team_a": "EXILE esports",
-        "team_b": "BRUTE",
-        "begin_at": "2026-08-26T14:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
         "id": 1639609,
         "league": "TCL",
         "tournament": "Playoffs",
@@ -163,19 +153,19 @@
         "team_b": "Colossal Gaming",
         "begin_at": "2026-08-26T16:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1597236,
+        "league": "NLC",
+        "tournament": "Playoffs",
+        "team_a": "Bulldog Esports",
+        "team_b": "B2U",
+        "begin_at": "2026-08-26T16:00:00Z",
+        "status": "not_started"
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1652171,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "Esport BERG",
-        "team_b": "ex-Sangal ALTERS",
-        "begin_at": "2026-08-26T14:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "cs2",
         "id": 1633259,
@@ -183,37 +173,7 @@
         "tournament": "Group Stage",
         "team_a": "GenOne",
         "team_b": "Nordic Partners Gaming ",
-        "begin_at": "2026-08-26T14:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1632644,
-        "league": "Exort Fiesta",
-        "tournament": "Group Stage",
-        "team_a": "Mai Tai",
-        "team_b": "Revise",
-        "begin_at": "2026-08-26T14:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1630709,
-        "league": "CCT Europe",
-        "tournament": "Group Stage",
-        "team_a": "Black Phoenix",
-        "team_b": "HyperSpirit",
-        "begin_at": "2026-08-26T14:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1640189,
-        "league": "BLAST Open",
-        "tournament": "Group A",
-        "team_a": "Natus Vincere",
-        "team_b": "M80",
-        "begin_at": "2026-08-26T14:25:00Z",
+        "begin_at": "2026-08-26T14:45:00Z",
         "status": "not_started"
       },
       {
@@ -244,6 +204,46 @@
         "team_a": "Chaos Enforcers",
         "team_b": "Royal Foxes Esports",
         "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1646571,
+        "league": "Monsters Reloaded",
+        "tournament": "Playoffs",
+        "team_a": "gothboiclique",
+        "team_b": "Team Phoenix",
+        "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1646570,
+        "league": "Monsters Reloaded",
+        "tournament": "Playoffs",
+        "team_a": "Misa Esports",
+        "team_b": "Eternal Fire Academy",
+        "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1646569,
+        "league": "Monsters Reloaded",
+        "tournament": "Playoffs",
+        "team_a": "WRAITH PCIFIC",
+        "team_b": "Bad Beavers Blue",
+        "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1645084,
+        "league": "CCT South America",
+        "tournament": "Group Stage",
+        "team_a": "ALKA GAMING",
+        "team_b": "pugdesonesto",
+        "begin_at": "2026-08-26T16:00:00Z",
         "status": "not_started"
       }
     ]
