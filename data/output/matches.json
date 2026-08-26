@@ -1,24 +1,14 @@
 {
-  "generated_at": "2026-08-26T09:41:43.832685+00:00",
+  "generated_at": "2026-08-26T10:35:59.183049+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1619628,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Global Esports",
-        "team_b": "Kiwoom DRX",
-        "begin_at": "2026-08-26T11:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "valorant",
         "id": 1619629,
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "Gen.G Esports",
-        "team_b": "TBD",
+        "team_b": "Nongshim RedForce",
         "begin_at": "2026-08-27T08:00:00Z",
         "status": "not_started"
       },
@@ -57,8 +47,8 @@
         "id": 1619631,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "ONSIDE GAMING",
-        "team_b": "TBD",
+        "team_a": "Paper Rex",
+        "team_b": "ONSIDE GAMING",
         "begin_at": "2026-08-28T08:00:00Z",
         "status": "not_started"
       },
@@ -80,6 +70,16 @@
         "team_a": "FUT Esports",
         "team_b": "Karmine Corp",
         "begin_at": "2026-08-28T14:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1608230,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Team Liquid",
+        "team_b": "Fire Flux Esports",
+        "begin_at": "2026-08-28T17:00:00Z",
         "status": "not_started"
       }
     ],
