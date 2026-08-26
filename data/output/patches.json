@@ -1,23 +1,29 @@
 {
-  "generated_at": "2026-08-25T19:38:57.148236+00:00",
+  "generated_at": "2026-08-26T05:41:44.750345+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
       "title": "Counter-Strike 2 Update",
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851",
-      "date": "2026-08-24T23:39:20+00:00"
+      "date": "2026-08-24T23:39:20+00:00",
+      "description": "\\Added custom_hud_layout entity:custom_hud_layouts are the entry point for scripted maps to provide custom UI.Panel, Label, Image, and Button panel types are supported.Styling with css is supported.Ev",
+      "image": null
     },
     "lol": {
       "game": "lol",
-      "title": "Parche 16.17.1",
-      "url": "https://www.leagueoflegends.com/en-us/news/tags/patch-notes/",
-      "date": null
+      "title": "League of Legends Patch 26.17 Notes",
+      "url": "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-17-notes",
+      "date": null,
+      "description": "Arenas, Bridges, Summoner’s Rifts new and old… change comes for us all.",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/e7061804e74e43de5c3cb98cc4892d318f3c7081-1920x1080.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
     },
     "valorant": {
       "game": "valorant",
-      "title": "Game Updates2026-08-18T13:00:00.000ZVALORANT Patch Notes 13.04New map rotation and bug fixes for Agents and melee skins",
+      "title": "VALORANT Patch Notes 13.04",
       "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-04",
-      "date": null
+      "date": null,
+      "description": "New map rotation and bug fixes for Agents and melee skins",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/610c12b411c40e6af76eec5d50646a56baf5dc26-1920x1080.jpg?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center"
     }
   }
 }

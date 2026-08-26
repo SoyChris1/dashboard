@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-08-25T19:38:57.148236+00:00",
+  "generated_at": "2026-08-26T05:41:44.750345+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1626596,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Akave Esports Black",
-        "team_b": "FUSION X",
-        "begin_at": "2026-08-25T22:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "valorant",
         "id": 1619627,
@@ -81,29 +71,19 @@
         "team_b": "TBD",
         "begin_at": "2026-08-28T08:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1619632,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "T1",
+        "team_b": "TBD",
+        "begin_at": "2026-08-28T11:00:00Z",
+        "status": "not_started"
       }
     ],
     "lol": [
-      {
-        "game": "lol",
-        "id": 1638613,
-        "league": "Circuito Desafiante",
-        "tournament": "Playoffs",
-        "team_a": "RMD Gaming",
-        "team_b": "paiN Gaming Academy",
-        "begin_at": "2026-08-25T20:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1595030,
-        "league": "LRS",
-        "tournament": "Playoffs",
-        "team_a": "Golden Lions",
-        "team_b": "9z Globant",
-        "begin_at": "2026-08-25T20:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "lol",
         "id": 1629295,
@@ -129,8 +109,8 @@
         "id": 1639609,
         "league": "TCL",
         "tournament": "Playoffs",
-        "team_a": "Team Phoenix",
-        "team_b": "PCIFIC ",
+        "team_a": "PCIFIC ",
+        "team_b": "Team Phoenix",
         "begin_at": "2026-08-26T15:00:00Z",
         "status": "not_started"
       },
@@ -163,87 +143,107 @@
         "team_b": "Galions",
         "begin_at": "2026-08-26T16:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1640228,
+        "league": "EBL",
+        "tournament": "Playoffs",
+        "team_a": "The Secret Club",
+        "team_b": "ØTF",
+        "begin_at": "2026-08-26T16:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1634721,
+        "league": "Arabian League",
+        "tournament": "Play-Ins",
+        "team_a": "GnG Amazigh",
+        "team_b": "Pyramid IV Esports",
+        "begin_at": "2026-08-26T16:00:00Z",
+        "status": "not_started"
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1651146,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Playoffs",
-        "team_a": "underw0rld",
-        "team_b": "BESTIA Academy",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "id": 1640085,
+        "league": "United21",
+        "tournament": "Group C",
+        "team_a": "ex-Sangal ALTERS",
+        "team_b": "Passion Academy",
+        "begin_at": "2026-08-26T08:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650483,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "paiN Academy",
-        "team_b": "Imperial",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "id": 1633252,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Group Stage",
+        "team_a": "INOX Division",
+        "team_b": "SPARTA",
+        "begin_at": "2026-08-26T08:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650482,
+        "id": 1650130,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "Isurus",
-        "team_b": "ODDIK",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "team_a": "Orgless",
+        "team_b": "Ground Zero",
+        "begin_at": "2026-08-26T09:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650481,
+        "id": 1650129,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "ex-MIBR Academy",
-        "team_b": "Turma do Pagode",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "team_a": "Rooster",
+        "team_b": "MARKandLARRY",
+        "begin_at": "2026-08-26T09:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650480,
+        "id": 1650128,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "ShindeN",
-        "team_b": "ALKA GAMING",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "team_a": "Arcade Esports",
+        "team_b": "Mindfreak",
+        "begin_at": "2026-08-26T09:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650479,
-        "league": "ESL Challenger League",
+        "id": 1648105,
+        "league": "Moscow Cyber Games",
         "tournament": "Playoffs",
-        "team_a": "BORRACHEIROS",
-        "team_b": "Galorys",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "team_a": "The Huns Esports",
+        "team_b": "Alter Ego",
+        "begin_at": "2026-08-26T09:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650478,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Bounty Hunters Esports",
-        "team_b": "MEIA NOITE",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "id": 1640187,
+        "league": "BLAST Open",
+        "tournament": "Group A",
+        "team_a": "Aurora Gaming",
+        "team_b": "G2",
+        "begin_at": "2026-08-26T09:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1650477,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Yawara Esports",
-        "team_b": "Keyd",
-        "begin_at": "2026-08-25T21:00:00Z",
+        "id": 1640090,
+        "league": "United21",
+        "tournament": "Group D",
+        "team_a": "Alliance",
+        "team_b": "Teletubisie",
+        "begin_at": "2026-08-26T10:30:00Z",
         "status": "not_started"
       }
     ]
