@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:44:36.623737+00:00",
+  "generated_at": "2026-08-26T16:17:55.843017+00:00",
   "matches": {
     "valorant": [
       {
@@ -86,56 +86,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1639609,
-        "league": "TCL",
-        "tournament": "Playoffs",
-        "team_a": "PCIFIC ",
-        "team_b": "Team Phoenix",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1634171,
-        "league": "Prime League 1st Division",
-        "tournament": "Playoffs",
-        "team_a": "Eintracht Spandau",
-        "team_b": "Kaufland Hangry Knights",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1618187,
-        "league": "Rift Legends",
-        "tournament": "Regular Season",
-        "team_a": "Forsaken",
-        "team_b": "Barcząca Esports",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1643626,
-        "league": "LFL",
-        "tournament": "Playoffs",
-        "team_a": "TLN Pirates",
-        "team_b": "Galions",
-        "begin_at": "2026-08-26T16:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1640228,
-        "league": "EBL",
-        "tournament": "Playoffs",
-        "team_a": "The Secret Club",
-        "team_b": "ØTF",
-        "begin_at": "2026-08-26T16:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
         "id": 1634721,
         "league": "Arabian League",
         "tournament": "Play-Ins",
@@ -146,104 +96,154 @@
       },
       {
         "game": "lol",
-        "id": 1626608,
-        "league": "LIT",
-        "tournament": "Playoffs",
-        "team_a": "Aeterna Esports",
-        "team_b": "Colossal Gaming",
-        "begin_at": "2026-08-26T16:00:00Z",
+        "id": 1618188,
+        "league": "Rift Legends",
+        "tournament": "Regular Season",
+        "team_a": "BOMBA Team",
+        "team_b": "DOCISK",
+        "begin_at": "2026-08-26T17:30:00Z",
         "status": "not_started"
       },
       {
         "game": "lol",
-        "id": 1597236,
+        "id": 1598337,
+        "league": "LPLOL",
+        "tournament": "Playoffs",
+        "team_a": "Hyperion",
+        "team_b": "Bubliki",
+        "begin_at": "2026-08-26T18:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1597237,
         "league": "NLC",
         "tournament": "Playoffs",
-        "team_a": "Bulldog Esports",
-        "team_b": "B2U",
-        "begin_at": "2026-08-26T16:00:00Z",
+        "team_a": "DMG Esports",
+        "team_b": "Volda E-Sport",
+        "begin_at": "2026-08-26T18:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1638614,
+        "league": "Circuito Desafiante",
+        "tournament": "Playoffs",
+        "team_a": "7REX",
+        "team_b": "KaBuM! Ilha das Lendas",
+        "begin_at": "2026-08-26T20:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1636123,
+        "league": "North American Challengers League",
+        "tournament": "Playoffs",
+        "team_a": "Conviction",
+        "team_b": "Dorado Gaming",
+        "begin_at": "2026-08-26T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1629296,
+        "league": "LCK",
+        "tournament": "Play-In",
+        "team_a": "Nongshim Red Force",
+        "team_b": "BNK FEARX",
+        "begin_at": "2026-08-27T08:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1631698,
+        "league": "HLL",
+        "tournament": "Playoffs",
+        "team_a": "Valerion",
+        "team_b": "Gamespace Mediterranean College Esports",
+        "begin_at": "2026-08-27T13:00:00Z",
         "status": "not_started"
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1633259,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Group Stage",
-        "team_a": "GenOne",
-        "team_b": "Nordic Partners Gaming ",
-        "begin_at": "2026-08-26T14:45:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652172,
+        "id": 1634176,
         "league": "ESEA",
         "tournament": "Regular Season",
-        "team_a": "B8 Academy",
-        "team_b": "NAVI Junior",
-        "begin_at": "2026-08-26T15:00:00Z",
+        "team_a": "NAVI Junior",
+        "team_b": "Dark Moon",
+        "begin_at": "2026-08-26T16:30:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1648082,
-        "league": "Moscow Cyber Games",
+        "id": 1652177,
+        "league": "ESEA",
+        "tournament": "Regular Season",
+        "team_a": "NoTime",
+        "team_b": "VP.Prodigy",
+        "begin_at": "2026-08-26T17:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1652176,
+        "league": "ESEA",
+        "tournament": "Regular Season",
+        "team_a": "Privateer Gaming",
+        "team_b": "Esport BERG",
+        "begin_at": "2026-08-26T17:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1652175,
+        "league": "ESEA",
+        "tournament": "Regular Season",
+        "team_a": "ROUNDS",
+        "team_b": "Donstu Esports",
+        "begin_at": "2026-08-26T17:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1652174,
+        "league": "ESEA",
+        "tournament": "Regular Season",
+        "team_a": "Drama eSports",
+        "team_b": "Falcons Force",
+        "begin_at": "2026-08-26T17:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1652173,
+        "league": "ESEA",
+        "tournament": "Regular Season",
+        "team_a": "Fraternity",
+        "team_b": "KUUSAMO.gg",
+        "begin_at": "2026-08-26T17:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1633260,
+        "league": "NODWIN Clutch Series",
         "tournament": "Group Stage",
-        "team_a": "HOTU",
-        "team_b": "K27",
-        "begin_at": "2026-08-26T15:00:00Z",
+        "team_a": "UPGRADE",
+        "team_b": "BET-M 33",
+        "begin_at": "2026-08-26T17:00:00Z",
         "status": "not_started"
       },
       {
         "game": "cs2",
-        "id": 1646572,
-        "league": "Monsters Reloaded",
-        "tournament": "Playoffs",
-        "team_a": "Chaos Enforcers",
-        "team_b": "Royal Foxes Esports",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1646571,
-        "league": "Monsters Reloaded",
-        "tournament": "Playoffs",
-        "team_a": "gothboiclique",
-        "team_b": "Team Phoenix",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1646570,
-        "league": "Monsters Reloaded",
-        "tournament": "Playoffs",
-        "team_a": "Misa Esports",
-        "team_b": "Eternal Fire Academy",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1646569,
-        "league": "Monsters Reloaded",
-        "tournament": "Playoffs",
-        "team_a": "WRAITH PCIFIC",
-        "team_b": "Bad Beavers Blue",
-        "begin_at": "2026-08-26T15:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1645084,
-        "league": "CCT South America",
+        "id": 1632645,
+        "league": "Exort Fiesta",
         "tournament": "Group Stage",
-        "team_a": "ALKA GAMING",
-        "team_b": "pugdesonesto",
-        "begin_at": "2026-08-26T16:00:00Z",
+        "team_a": "ex-Zero Tenacity",
+        "team_b": "Honvéd",
+        "begin_at": "2026-08-26T17:00:00Z",
         "status": "not_started"
       }
     ]
