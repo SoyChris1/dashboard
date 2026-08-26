@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:17:55.843017+00:00",
+  "generated_at": "2026-08-26T19:02:19.048439+00:00",
   "matches": {
     "valorant": [
       {
@@ -86,46 +86,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1634721,
-        "league": "Arabian League",
-        "tournament": "Play-Ins",
-        "team_a": "GnG Amazigh",
-        "team_b": "Pyramid IV Esports",
-        "begin_at": "2026-08-26T16:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1618188,
-        "league": "Rift Legends",
-        "tournament": "Regular Season",
-        "team_a": "BOMBA Team",
-        "team_b": "DOCISK",
-        "begin_at": "2026-08-26T17:30:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1598337,
-        "league": "LPLOL",
-        "tournament": "Playoffs",
-        "team_a": "Hyperion",
-        "team_b": "Bubliki",
-        "begin_at": "2026-08-26T18:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
-        "id": 1597237,
-        "league": "NLC",
-        "tournament": "Playoffs",
-        "team_a": "DMG Esports",
-        "team_b": "Volda E-Sport",
-        "begin_at": "2026-08-26T18:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "lol",
         "id": 1638614,
         "league": "Circuito Desafiante",
         "tournament": "Playoffs",
@@ -163,87 +123,127 @@
         "team_b": "Gamespace Mediterranean College Esports",
         "begin_at": "2026-08-27T13:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1630217,
+        "league": "Hitpoint Masters",
+        "tournament": "Regular Season",
+        "team_a": "NightBirds",
+        "team_b": "Meavedron",
+        "begin_at": "2026-08-27T14:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1639610,
+        "league": "TCL",
+        "tournament": "Playoffs",
+        "team_a": "DIA Ozarox Esports",
+        "team_b": "Dark Passage",
+        "begin_at": "2026-08-27T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1634172,
+        "league": "Prime League 1st Division",
+        "tournament": "Playoffs",
+        "team_a": "BIG",
+        "team_b": "G2 NORD",
+        "begin_at": "2026-08-27T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1618189,
+        "league": "Rift Legends",
+        "tournament": "Regular Season",
+        "team_a": "Anonymo Esports",
+        "team_b": "devils.one inStreamly",
+        "begin_at": "2026-08-27T15:00:00Z",
+        "status": "not_started"
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1634176,
+        "id": 1651144,
+        "league": "Gamers Club Liga Série A",
+        "tournament": "Playoffs",
+        "team_a": "ALKA GAMING",
+        "team_b": "Hunters Rising",
+        "begin_at": "2026-08-26T18:30:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1652181,
         "league": "ESEA",
         "tournament": "Regular Season",
-        "team_a": "NAVI Junior",
-        "team_b": "Dark Moon",
-        "begin_at": "2026-08-26T16:30:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652177,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "NoTime",
-        "team_b": "VP.Prodigy",
-        "begin_at": "2026-08-26T17:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652176,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "Privateer Gaming",
-        "team_b": "Esport BERG",
-        "begin_at": "2026-08-26T17:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652175,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "ROUNDS",
-        "team_b": "Donstu Esports",
-        "begin_at": "2026-08-26T17:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652174,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "Drama eSports",
-        "team_b": "Falcons Force",
-        "begin_at": "2026-08-26T17:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1652173,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "Fraternity",
-        "team_b": "KUUSAMO.gg",
-        "begin_at": "2026-08-26T17:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1633260,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Group Stage",
-        "team_a": "UPGRADE",
-        "team_b": "BET-M 33",
-        "begin_at": "2026-08-26T17:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1632645,
-        "league": "Exort Fiesta",
-        "tournament": "Group Stage",
-        "team_a": "ex-Zero Tenacity",
+        "team_a": "JUMBO TEAM",
         "team_b": "Honvéd",
-        "begin_at": "2026-08-26T17:00:00Z",
+        "begin_at": "2026-08-26T19:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1652180,
+        "league": "ESEA",
+        "tournament": "Regular Season",
+        "team_a": "Esport BERG",
+        "team_b": "VP.Prodigy",
+        "begin_at": "2026-08-26T19:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1651145,
+        "league": "Gamers Club Liga Série A",
+        "tournament": "Playoffs",
+        "team_a": "QUINTESSÊNCIA",
+        "team_b": "RED Canids Academy",
+        "begin_at": "2026-08-26T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650495,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Isurus",
+        "team_b": "paiN Academy",
+        "begin_at": "2026-08-26T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650494,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "ALKA GAMING",
+        "team_b": "Turma do Pagode",
+        "begin_at": "2026-08-26T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650493,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "MEIA NOITE",
+        "team_b": "BORRACHEIROS",
+        "begin_at": "2026-08-26T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650492,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Peak Agency",
+        "team_b": "Yawara Esports",
+        "begin_at": "2026-08-26T21:00:00Z",
         "status": "not_started"
       }
     ]
