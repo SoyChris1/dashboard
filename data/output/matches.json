@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T08:43:36.311377+00:00",
+  "generated_at": "2026-08-26T09:41:43.832685+00:00",
   "matches": {
     "valorant": [
       {
@@ -168,56 +168,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1650130,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Orgless",
-        "team_b": "Ground Zero",
-        "begin_at": "2026-08-26T09:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1650129,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Rooster",
-        "team_b": "MARKandLARRY",
-        "begin_at": "2026-08-26T09:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1650128,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Arcade Esports",
-        "team_b": "Mindfreak",
-        "begin_at": "2026-08-26T09:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1648105,
-        "league": "Moscow Cyber Games",
-        "tournament": "Playoffs",
-        "team_a": "The Huns Esports",
-        "team_b": "Alter Ego",
-        "begin_at": "2026-08-26T09:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1640187,
-        "league": "BLAST Open",
-        "tournament": "Group A",
-        "team_a": "Aurora Gaming",
-        "team_b": "G2",
-        "begin_at": "2026-08-26T09:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
         "id": 1640090,
         "league": "United21",
         "tournament": "Group D",
@@ -244,6 +194,56 @@
         "team_a": "Falcons Force",
         "team_b": "Vexar",
         "begin_at": "2026-08-26T11:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1630708,
+        "league": "CCT Europe",
+        "tournament": "Group Stage",
+        "team_a": "G2 Ares",
+        "team_b": "Bushido Wildcats",
+        "begin_at": "2026-08-26T11:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1640188,
+        "league": "BLAST Open",
+        "tournament": "Group A",
+        "team_a": "Spirit",
+        "team_b": "DENDELE CS",
+        "begin_at": "2026-08-26T11:30:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1648081,
+        "league": "Moscow Cyber Games",
+        "tournament": "Group Stage",
+        "team_a": "Nuclear TigeRES",
+        "team_b": "BET-M 33",
+        "begin_at": "2026-08-26T12:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650465,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Haunted House",
+        "team_b": "5star",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650464,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "The KnockoutX",
+        "team_b": "QuantumX",
+        "begin_at": "2026-08-26T13:00:00Z",
         "status": "not_started"
       }
     ]
