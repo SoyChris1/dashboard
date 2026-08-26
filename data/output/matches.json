@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:30:40.750147+00:00",
+  "generated_at": "2026-08-26T12:52:40.943170+00:00",
   "matches": {
     "valorant": [
       {
@@ -168,36 +168,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1633258,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Group Stage",
-        "team_a": "ex-Zero Tenacity",
-        "team_b": "HyperSpirit",
-        "begin_at": "2026-08-26T11:30:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1640188,
-        "league": "BLAST Open",
-        "tournament": "Group A",
-        "team_a": "Spirit",
-        "team_b": "DENDELE CS",
-        "begin_at": "2026-08-26T11:55:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1648081,
-        "league": "Moscow Cyber Games",
-        "tournament": "Group Stage",
-        "team_a": "Nuclear TigeRES",
-        "team_b": "BET-M 33",
-        "begin_at": "2026-08-26T12:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
         "id": 1650465,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
@@ -243,6 +213,36 @@
         "tournament": "Playoffs",
         "team_a": "Chinggis Warriors",
         "team_b": "TEAM XDM",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650456,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "NEXVOID",
+        "team_b": "Alter Ego",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650455,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Just Swing",
+        "team_b": "Rare Atom",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650454,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "The Huns Esports",
+        "team_b": "Vitalem Aerem",
         "begin_at": "2026-08-26T13:00:00Z",
         "status": "not_started"
       }
