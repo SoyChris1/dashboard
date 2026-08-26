@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:35:59.183049+00:00",
+  "generated_at": "2026-08-26T11:30:40.750147+00:00",
   "matches": {
     "valorant": [
       {
@@ -168,42 +168,12 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1640090,
-        "league": "United21",
-        "tournament": "Group D",
-        "team_a": "Alliance",
-        "team_b": "Teletubisie",
-        "begin_at": "2026-08-26T10:30:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
         "id": 1633258,
         "league": "NODWIN Clutch Series",
         "tournament": "Group Stage",
         "team_a": "ex-Zero Tenacity",
         "team_b": "HyperSpirit",
-        "begin_at": "2026-08-26T11:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1632643,
-        "league": "Exort Fiesta",
-        "tournament": "Group Stage",
-        "team_a": "Falcons Force",
-        "team_b": "Vexar",
-        "begin_at": "2026-08-26T11:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1630708,
-        "league": "CCT Europe",
-        "tournament": "Group Stage",
-        "team_a": "G2 Ares",
-        "team_b": "Bushido Wildcats",
-        "begin_at": "2026-08-26T11:00:00Z",
+        "begin_at": "2026-08-26T11:30:00Z",
         "status": "not_started"
       },
       {
@@ -213,7 +183,7 @@
         "tournament": "Group A",
         "team_a": "Spirit",
         "team_b": "DENDELE CS",
-        "begin_at": "2026-08-26T11:30:00Z",
+        "begin_at": "2026-08-26T11:55:00Z",
         "status": "not_started"
       },
       {
@@ -243,6 +213,36 @@
         "tournament": "Playoffs",
         "team_a": "The KnockoutX",
         "team_b": "QuantumX",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650463,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Kaleido Gaming",
+        "team_b": "LEGAM",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650462,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Not A Squad Esports",
+        "team_b": "Banzai",
+        "begin_at": "2026-08-26T13:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650457,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Chinggis Warriors",
+        "team_b": "TEAM XDM",
         "begin_at": "2026-08-26T13:00:00Z",
         "status": "not_started"
       }
