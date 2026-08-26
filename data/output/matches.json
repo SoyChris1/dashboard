@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-08-26T07:46:49.414617+00:00",
+  "generated_at": "2026-08-26T08:43:36.311377+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1619627,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Paper Rex",
-        "team_b": "Nongshim RedForce",
-        "begin_at": "2026-08-26T08:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "valorant",
         "id": 1619628,
@@ -81,19 +71,19 @@
         "team_b": "TBD",
         "begin_at": "2026-08-28T11:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1608213,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "FUT Esports",
+        "team_b": "Karmine Corp",
+        "begin_at": "2026-08-28T14:00:00Z",
+        "status": "not_started"
       }
     ],
     "lol": [
-      {
-        "game": "lol",
-        "id": 1629295,
-        "league": "LCK",
-        "tournament": "Play-In",
-        "team_a": "KT Rolster",
-        "team_b": "HANJIN BRION",
-        "begin_at": "2026-08-26T08:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "lol",
         "id": 1630215,
@@ -163,29 +153,19 @@
         "team_b": "Pyramid IV Esports",
         "begin_at": "2026-08-26T16:00:00Z",
         "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1626608,
+        "league": "LIT",
+        "tournament": "Playoffs",
+        "team_a": "Aeterna Esports",
+        "team_b": "Colossal Gaming",
+        "begin_at": "2026-08-26T16:00:00Z",
+        "status": "not_started"
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1640085,
-        "league": "United21",
-        "tournament": "Group C",
-        "team_a": "ex-Sangal ALTERS",
-        "team_b": "Passion Academy",
-        "begin_at": "2026-08-26T08:00:00Z",
-        "status": "not_started"
-      },
-      {
-        "game": "cs2",
-        "id": 1633252,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Group Stage",
-        "team_a": "INOX Division",
-        "team_b": "SPARTA",
-        "begin_at": "2026-08-26T08:00:00Z",
-        "status": "not_started"
-      },
       {
         "game": "cs2",
         "id": 1650130,
@@ -244,6 +224,26 @@
         "team_a": "Alliance",
         "team_b": "Teletubisie",
         "begin_at": "2026-08-26T10:30:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1633258,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Group Stage",
+        "team_a": "ex-Zero Tenacity",
+        "team_b": "HyperSpirit",
+        "begin_at": "2026-08-26T11:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1632643,
+        "league": "Exort Fiesta",
+        "tournament": "Group Stage",
+        "team_a": "Falcons Force",
+        "team_b": "Vexar",
+        "begin_at": "2026-08-26T11:00:00Z",
         "status": "not_started"
       }
     ]
