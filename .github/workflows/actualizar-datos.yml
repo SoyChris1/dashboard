@@ -1,0 +1,41 @@
+name: Actualizar datos de eSports
+
+on:
+  schedule:
+    
+    - cron: "0 * * * *"
+  workflow_dispatch: {}   
+
+permissions:
+  contents: write   
+
+jobs:
+  actualizar-datos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        working-directory: data
+        run: pip install -r requirements.txt
+
+      - name: Generar matches.json y patches.json
+        working-directory: data
+        env:
+          PANDASCORE_TOKEN: ${{ secrets.PANDASCORE_TOKEN }}
+        run: python generate_data.py
+
+      - name: Commitear cambios (si hay datos nuevos)
+        run: |
+          git config user.name "eSports Dashboard Bot"
+          git config user.email "actions@github.com"
+          git add data/output/matches.json data/output/patches.json
+          git diff --staged --quiet || git commit -m "Actualizar datos de eSports [automático]"
+          git push

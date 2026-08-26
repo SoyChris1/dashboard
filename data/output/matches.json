@@ -1,0 +1,251 @@
+{
+  "generated_at": "2026-08-25T19:38:57.148236+00:00",
+  "matches": {
+    "valorant": [
+      {
+        "game": "valorant",
+        "id": 1626596,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Akave Esports Black",
+        "team_b": "FUSION X",
+        "begin_at": "2026-08-25T22:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1619627,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Paper Rex",
+        "team_b": "Nongshim RedForce",
+        "begin_at": "2026-08-26T08:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1619628,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Global Esports",
+        "team_b": "Kiwoom DRX",
+        "begin_at": "2026-08-26T11:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1619629,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Gen.G Esports",
+        "team_b": "TBD",
+        "begin_at": "2026-08-27T08:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1619630,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "VARREL",
+        "team_b": "TBD",
+        "begin_at": "2026-08-27T11:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1616166,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "LOUD",
+        "team_b": "FURIA Esports",
+        "begin_at": "2026-08-27T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1616167,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Leviatán Esports",
+        "team_b": "MIBR",
+        "begin_at": "2026-08-28T00:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "valorant",
+        "id": 1619631,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "ONSIDE GAMING",
+        "team_b": "TBD",
+        "begin_at": "2026-08-28T08:00:00Z",
+        "status": "not_started"
+      }
+    ],
+    "lol": [
+      {
+        "game": "lol",
+        "id": 1638613,
+        "league": "Circuito Desafiante",
+        "tournament": "Playoffs",
+        "team_a": "RMD Gaming",
+        "team_b": "paiN Gaming Academy",
+        "begin_at": "2026-08-25T20:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1595030,
+        "league": "LRS",
+        "tournament": "Playoffs",
+        "team_a": "Golden Lions",
+        "team_b": "9z Globant",
+        "begin_at": "2026-08-25T20:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1629295,
+        "league": "LCK",
+        "tournament": "Play-In",
+        "team_a": "KT Rolster",
+        "team_b": "HANJIN BRION",
+        "begin_at": "2026-08-26T08:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1630215,
+        "league": "Hitpoint Masters",
+        "tournament": "Regular Season",
+        "team_a": "EXILE esports",
+        "team_b": "BRUTE",
+        "begin_at": "2026-08-26T14:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1639609,
+        "league": "TCL",
+        "tournament": "Playoffs",
+        "team_a": "Team Phoenix",
+        "team_b": "PCIFIC ",
+        "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1634171,
+        "league": "Prime League 1st Division",
+        "tournament": "Playoffs",
+        "team_a": "Eintracht Spandau",
+        "team_b": "Kaufland Hangry Knights",
+        "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1618187,
+        "league": "Rift Legends",
+        "tournament": "Regular Season",
+        "team_a": "Forsaken",
+        "team_b": "Barcząca Esports",
+        "begin_at": "2026-08-26T15:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "lol",
+        "id": 1643626,
+        "league": "LFL",
+        "tournament": "Playoffs",
+        "team_a": "TLN Pirates",
+        "team_b": "Galions",
+        "begin_at": "2026-08-26T16:00:00Z",
+        "status": "not_started"
+      }
+    ],
+    "cs2": [
+      {
+        "game": "cs2",
+        "id": 1651146,
+        "league": "Gamers Club Liga Série A",
+        "tournament": "Playoffs",
+        "team_a": "underw0rld",
+        "team_b": "BESTIA Academy",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650483,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "paiN Academy",
+        "team_b": "Imperial",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650482,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Isurus",
+        "team_b": "ODDIK",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650481,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "ex-MIBR Academy",
+        "team_b": "Turma do Pagode",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650480,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "ShindeN",
+        "team_b": "ALKA GAMING",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650479,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "BORRACHEIROS",
+        "team_b": "Galorys",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650478,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Bounty Hunters Esports",
+        "team_b": "MEIA NOITE",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      },
+      {
+        "game": "cs2",
+        "id": 1650477,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Yawara Esports",
+        "team_b": "Keyd",
+        "begin_at": "2026-08-25T21:00:00Z",
+        "status": "not_started"
+      }
+    ]
+  }
+}

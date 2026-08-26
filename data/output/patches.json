@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-08-25T19:38:57.148236+00:00",
+  "patches": {
+    "cs2": {
+      "game": "cs2",
+      "title": "Counter-Strike 2 Update",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851",
+      "date": "2026-08-24T23:39:20+00:00"
+    },
+    "lol": {
+      "game": "lol",
+      "title": "Parche 16.17.1",
+      "url": "https://www.leagueoflegends.com/en-us/news/tags/patch-notes/",
+      "date": null
+    },
+    "valorant": {
+      "game": "valorant",
+      "title": "Game Updates2026-08-18T13:00:00.000ZVALORANT Patch Notes 13.04New map rotation and bug fixes for Agents and melee skins",
+      "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-04",
+      "date": null
+    }
+  }
+}
