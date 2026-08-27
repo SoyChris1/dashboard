@@ -10,7 +10,7 @@
         "team_a": "VARREL",
         "team_b": "Global Esports",
         "begin_at": "2026-08-27T11:00:00Z",
-        "status": "not_started",
+        "status": "running",
         "streams": [
           {
             "language": "en",
