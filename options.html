@@ -5,17 +5,43 @@
     <title>Opciones · eSports Dashboard Pro</title>
     <style>
         body {
-            background: #12121c;
-            color: #f5f5f7;
-            font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
-            padding: 24px;
+            background: #050505;
+            color: #f5f5f5;
+            font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            padding: 28px;
+            width: 360px;
         }
-        h1 { color: #00f0ff; font-size: 18px; }
-        p { color: #a0a0b0; font-size: 13px; }
+        h1 { font-size: 15px; font-weight: 700; letter-spacing: 2px; margin-bottom: 20px; }
+        label { display: block; font-size: 12px; color: #999; margin-bottom: 8px; }
+        select {
+            width: 100%;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.15);
+            color: #f5f5f5;
+            padding: 10px 12px;
+            border-radius: 10px;
+            font-size: 13px;
+        }
+        select option {
+            background: #111;
+            color: #f5f5f5;
+        }
+        #guardado {
+            margin-top: 14px;
+            font-size: 11.5px;
+            color: #4ade80;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        #guardado.visible { opacity: 1; }
     </style>
 </head>
 <body>
-    <h1>Opciones</h1>
-    <p>Próximamente: elegir juegos favoritos, zona horaria y preferencias de notificaciones.</p>
+    <h1>PAÍS</h1>
+    <label for="selector-pais">Selecciona tu país para ajustar el horario y el idioma:</label>
+    <select id="selector-pais"></select>
+    <div id="guardado">Guardado ✓</div>
+
+    <script src="options.js"></script>
 </body>
 </html>

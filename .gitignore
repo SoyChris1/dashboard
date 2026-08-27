@@ -8,3 +8,5 @@ __pycache__/
 
 .vscode/
 .DS_Store
+
+data/output/matches.json data/output/patches.json
