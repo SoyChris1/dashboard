@@ -1,34 +1,7 @@
 {
-  "generated_at": "2026-08-27T09:30:28.881536+00:00",
+  "generated_at": "2026-08-27T09:12:57.129651+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1619629,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Gen.G Esports",
-        "team_b": "Nongshim RedForce",
-        "begin_at": "2026-08-27T08:05:27Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=zk7SEaTZw_Q",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_pacific",
-            "official": true
-          },
-          {
-            "language": "ja",
-            "url": "https://www.twitch.tv/valorant_jpn",
-            "official": false
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1619630,
@@ -219,38 +192,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1629296,
-        "league": "LCK",
-        "tournament": "Play-In",
-        "team_a": "Nongshim Red Force",
-        "team_b": "BNK FEARX",
-        "begin_at": "2026-08-27T08:02:36Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "zh",
-            "url": "https://www.twitch.tv/lck_carry",
-            "official": false
-          },
-          {
-            "language": "fr",
-            "url": "https://www.twitch.tv/otplol_",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=vN6y8LgTKt4",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lck",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1654252,
         "league": "HLL",
         "tournament": "Playoffs",
@@ -397,144 +338,6 @@
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1653639,
-        "league": "United21",
-        "tournament": "Playoffs",
-        "team_a": "B8 Academy",
-        "team_b": "Teletubisie",
-        "begin_at": "2026-08-27T08:08:37Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/united21_en",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1630711,
-        "league": "CCT Europe",
-        "tournament": "Playoffs",
-        "team_a": "STATE",
-        "team_b": "GenOne",
-        "begin_at": "2026-08-27T08:15:24Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs",
-            "official": true
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/betboom_cs_ru3",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1651274,
-        "league": "CCT Europe",
-        "tournament": "Group A",
-        "team_a": "ex-Zero Tenacity",
-        "team_b": "WBT",
-        "begin_at": "2026-08-27T08:21:06Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/betboom_cs_ru4",
-            "official": false
-          },
-          {
-            "language": "uk",
-            "url": "https://www.twitch.tv/wbtgg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1640199,
-        "league": "BLAST Open",
-        "tournament": "Group B",
-        "team_a": "Vitality",
-        "team_b": "Inner Circle Esports",
-        "begin_at": "2026-08-27T09:02:47Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "uk",
-            "url": "https://www.twitch.tv/CS2_maincast",
-            "official": false
-          },
-          {
-            "language": "tr",
-            "url": "https://kick.com/maj3r",
-            "official": false
-          },
-          {
-            "language": "es",
-            "url": "https://kick.com/x9nium",
-            "official": false
-          },
-          {
-            "language": "mn",
-            "url": "https://www.youtube.com/watch?v=K7Y9LaaP338",
-            "official": false
-          },
-          {
-            "language": "de",
-            "url": "https://www.twitch.tv/zonixxcs",
-            "official": false
-          },
-          {
-            "language": "pl",
-            "url": "https://www.twitch.tv/izakooo",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/neret17",
-            "official": false
-          },
-          {
-            "language": "fr",
-            "url": "https://www.youtube.com/watch?v=qfyAQTdExNc",
-            "official": false
-          },
-          {
-            "language": "cs",
-            "url": "https://kick.com/bladeito",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://kick.com/gaules",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=_iLYW8vJ9E0",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/blastpremier",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/blastpremier",
-            "official": false
-          }
-        ]
-      },
       {
         "game": "cs2",
         "id": 1653640,
