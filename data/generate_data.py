@@ -47,42 +47,52 @@ HEADERS = {"User-Agent": "eSportsDashboardPro/1.0 (+extension)"}
 # ---------------------------------------------------------------------------
 
 def fetch_matches_pandascore(game_key: str, slug: str, per_page: int = 8) -> list:
-    """Trae los próximos partidos de un juego desde PandaScore (plan Fixtures, gratis)."""
+    """Trae próximos partidos Y partidos en vivo desde PandaScore (plan Fixtures, gratis)."""
     if not PANDASCORE_TOKEN:
         raise RuntimeError("Falta PANDASCORE_TOKEN en el entorno (.env)")
 
-    url = f"{PANDASCORE_BASE}/{slug}/matches/upcoming"
-    params = {"token": PANDASCORE_TOKEN, "per_page": per_page, "sort": "begin_at"}
-    resp = requests.get(url, params=params, headers=HEADERS, timeout=15)
-    resp.raise_for_status()
-    raw = resp.json()
-
     matches = []
-    for m in raw:
-        opponents = m.get("opponents") or []
-        team_names = [o["opponent"]["name"] for o in opponents if o.get("opponent")]
+    for endpoint in ["running", "upcoming"]:
+        url = f"{PANDASCORE_BASE}/{slug}/matches/{endpoint}"
+        params = {"token": PANDASCORE_TOKEN, "per_page": per_page, "sort": "begin_at"}
+        resp = requests.get(url, params=params, headers=HEADERS, timeout=15)
+        resp.raise_for_status()
+        raw = resp.json()
 
-        streams = []
-        for s in (m.get("streams_list") or []):
-            if s.get("raw_url"):
-                streams.append({
-                    "language": s.get("language"),
-                    "url": s.get("raw_url"),
-                    "official": bool(s.get("official")),
-                })
+        for m in raw:
+            opponents = m.get("opponents") or []
+            team_names = [o["opponent"]["name"] for o in opponents if o.get("opponent")]
 
-        matches.append({
-            "game": game_key,
-            "id": m.get("id"),
-            "league": (m.get("league") or {}).get("name"),
-            "tournament": (m.get("tournament") or {}).get("name"),
-            "team_a": team_names[0] if len(team_names) > 0 else "TBD",
-            "team_b": team_names[1] if len(team_names) > 1 else "TBD",
-            "begin_at": m.get("begin_at"),
-            "status": m.get("status"),
-            "streams": streams,
-        })
-    return matches
+            streams = []
+            for s in (m.get("streams_list") or []):
+                if s.get("raw_url"):
+                    streams.append({
+                        "language": s.get("language"),
+                        "url": s.get("raw_url"),
+                        "official": bool(s.get("official")),
+                    })
+
+            matches.append({
+                "game": game_key,
+                "id": m.get("id"),
+                "league": (m.get("league") or {}).get("name"),
+                "tournament": (m.get("tournament") or {}).get("name"),
+                "team_a": team_names[0] if len(team_names) > 0 else "TBD",
+                "team_b": team_names[1] if len(team_names) > 1 else "TBD",
+                "begin_at": m.get("begin_at"),
+                "status": m.get("status"),
+                "streams": streams,
+            })
+
+    # Evita duplicados si un partido aparece en ambos endpoints
+    vistos = set()
+    matches_unicos = []
+    for m in matches:
+        if m["id"] not in vistos:
+            vistos.add(m["id"])
+            matches_unicos.append(m)
+
+    return matches_unicos
 
 
 def mock_matches() -> dict:
