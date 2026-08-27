@@ -31,18 +31,20 @@ load_dotenv()
 PANDASCORE_TOKEN = os.getenv("PANDASCORE_TOKEN")
 PANDASCORE_BASE = "https://api.pandascore.co"
 
-
+# Mapeo: nombre interno -> slug que usa PandaScore en la URL
 GAMES = {
     "valorant": "valorant",
     "lol": "lol",
-    "cs2": "csgo",  
+    "cs2": "csgo",  # PandaScore mantiene el namespace "csgo" también para CS2
 }
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
 HEADERS = {"User-Agent": "eSportsDashboardPro/1.0 (+extension)"}
 
 
-
+# ---------------------------------------------------------------------------
+# PARTIDOS (PandaScore)
+# ---------------------------------------------------------------------------
 
 def fetch_matches_pandascore(game_key: str, slug: str, per_page: int = 8) -> list:
     """Trae los próximos partidos de un juego desde PandaScore (plan Fixtures, gratis)."""
@@ -59,6 +61,16 @@ def fetch_matches_pandascore(game_key: str, slug: str, per_page: int = 8) -> lis
     for m in raw:
         opponents = m.get("opponents") or []
         team_names = [o["opponent"]["name"] for o in opponents if o.get("opponent")]
+
+        streams = []
+        for s in (m.get("streams_list") or []):
+            if s.get("raw_url"):
+                streams.append({
+                    "language": s.get("language"),
+                    "url": s.get("raw_url"),
+                    "official": bool(s.get("official")),
+                })
+
         matches.append({
             "game": game_key,
             "id": m.get("id"),
@@ -66,8 +78,9 @@ def fetch_matches_pandascore(game_key: str, slug: str, per_page: int = 8) -> lis
             "tournament": (m.get("tournament") or {}).get("name"),
             "team_a": team_names[0] if len(team_names) > 0 else "TBD",
             "team_b": team_names[1] if len(team_names) > 1 else "TBD",
-            "begin_at": m.get("begin_at"),  # ISO 8601 UTC, la extensión lo convierte a hora local
+            "begin_at": m.get("begin_at"),
             "status": m.get("status"),
+            "streams": streams,
         })
     return matches
 
@@ -79,17 +92,25 @@ def mock_matches() -> dict:
         "valorant": [{
             "game": "valorant", "id": 111, "league": "VCT Americas",
             "tournament": "Stage 2", "team_a": "KRÜ Esports", "team_b": "Leviatán",
-            "begin_at": now_iso, "status": "not_started",
+            "begin_at": now_iso, "status": "running",
+            "streams": [
+                {"language": "es", "url": "https://www.twitch.tv/valorant_es", "official": True},
+                {"language": "en", "url": "https://www.twitch.tv/valorant", "official": True},
+            ],
         }],
         "lol": [{
             "game": "lol", "id": 222, "league": "LTA Sur",
             "tournament": "Split 2", "team_a": "Isurus", "team_b": "Estral",
             "begin_at": now_iso, "status": "not_started",
+            "streams": [
+                {"language": "es", "url": "https://www.twitch.tv/lla", "official": True},
+            ],
         }],
         "cs2": [{
             "game": "cs2", "id": 333, "league": "ESL Pro League",
             "tournament": "Season 21", "team_a": "FURIA", "team_b": "MIBR",
             "begin_at": now_iso, "status": "not_started",
+            "streams": [],
         }],
     }
 
@@ -108,7 +129,9 @@ def build_matches(mock: bool) -> dict:
     return data
 
 
-
+# ---------------------------------------------------------------------------
+# PARCHES (fuentes oficiales por juego)
+# ---------------------------------------------------------------------------
 
 import re
 
@@ -132,7 +155,7 @@ def _limpiar_texto_tarjeta(texto_crudo: str, patron_titulo: str) -> tuple:
     Aquí lo separamos: quitamos categoría+fecha, y usamos un patrón específico
     del juego para encontrar dónde termina el título y empieza la descripción.
     """
-    
+    # Quita "Categoría" + fecha ISO 8601 del inicio
     sin_fecha = re.sub(r"^.*?\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z", "", texto_crudo).strip()
 
     match = re.search(patron_titulo, sin_fecha, re.IGNORECASE)
@@ -159,7 +182,7 @@ def fetch_patch_cs2() -> dict:
         return {"game": "cs2", "title": None, "url": None, "date": None, "description": None, "image": None}
 
     latest = patch_items[0]
-    
+    # Steam a veces trae una imagen embebida al inicio del contenido
     imagen = None
     contenido = latest.get("contents", "")
     match_img = re.search(r'(https?://[^\s"\'<>]+\.(?:jpg|jpeg|png))', contenido)
@@ -277,7 +300,9 @@ def build_patches(mock: bool) -> dict:
     return data
 
 
-
+# ---------------------------------------------------------------------------
+# MAIN
+# ---------------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser()
