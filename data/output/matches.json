@@ -1,61 +1,7 @@
 {
-  "generated_at": "2026-08-27T20:16:28.883355+00:00",
+  "generated_at": "2026-08-28T04:26:13.782941+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1616166,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "LOUD",
-        "team_b": "FURIA Esports",
-        "begin_at": "2026-08-27T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/valorant_br",
-            "official": false
-          },
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/valorant_la",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "valorant",
-        "id": 1616167,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Leviatán Esports",
-        "team_b": "MIBR",
-        "begin_at": "2026-08-28T00:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/valorant_br",
-            "official": false
-          },
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/valorant_la",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1619631,
@@ -170,7 +116,7 @@
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "NRG",
-        "team_b": "TBD",
+        "team_b": "LOUD",
         "begin_at": "2026-08-28T21:00:00Z",
         "status": "not_started",
         "streams": [
@@ -187,7 +133,7 @@
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "100 Thieves",
-        "team_b": "TBD",
+        "team_b": "Leviatán Esports",
         "begin_at": "2026-08-29T00:00:00Z",
         "status": "not_started",
         "streams": [
@@ -197,48 +143,63 @@
             "official": true
           }
         ]
-      }
-    ],
-    "lol": [
-      {
-        "game": "lol",
-        "id": 1598339,
-        "league": "LPLOL",
-        "tournament": "Playoffs",
-        "team_a": "White Dragons",
-        "team_b": "Tung Tung Bogi",
-        "begin_at": "2026-08-27T18:10:55Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenalol",
-            "official": true
-          }
-        ]
       },
       {
-        "game": "lol",
-        "id": 1636124,
-        "league": "North American Challengers League",
+        "game": "valorant",
+        "id": 1619633,
+        "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "Contingent Esports",
-        "team_b": "University of Mississippi",
-        "begin_at": "2026-08-27T21:00:00Z",
+        "team_a": "VARREL",
+        "team_b": "TBD",
+        "begin_at": "2026-08-29T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=dZne32jNRyc",
+            "language": "ja",
+            "url": "https://www.twitch.tv/valorant_jpn",
             "official": false
           },
           {
             "language": "en",
-            "url": "https://www.twitch.tv/NACL",
+            "url": "https://www.youtube.com/@VCTPacific/live",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_pacific",
             "official": true
           }
         ]
       },
+      {
+        "game": "valorant",
+        "id": 1619634,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Gen.G Esports",
+        "team_b": "TBD",
+        "begin_at": "2026-08-29T11:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ja",
+            "url": "https://www.twitch.tv/valorant_jpn",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/@VCTPacific/live",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_pacific",
+            "official": true
+          }
+        ]
+      }
+    ],
+    "lol": [
       {
         "game": "lol",
         "id": 1643087,
@@ -370,51 +331,92 @@
             "official": false
           }
         ]
+      },
+      {
+        "game": "lol",
+        "id": 1564745,
+        "league": "LEC",
+        "tournament": "Regular Season",
+        "team_a": "Team Vitality",
+        "team_b": "Fnatic",
+        "begin_at": "2026-08-28T17:15:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/lec",
+            "official": true
+          },
+          {
+            "language": "fr",
+            "url": "https://www.twitch.tv/otplol_",
+            "official": false
+          }
+        ]
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1648236,
-        "league": "Logitech G Play Connect",
-        "tournament": "Group A",
-        "team_a": "BASEMENT BOYS",
-        "team_b": "QUAZAR",
-        "begin_at": "2026-08-27T17:08:36Z",
-        "status": "running",
+        "id": 1653641,
+        "league": "United21",
+        "tournament": "Playoffs",
+        "team_a": "EAC Extra",
+        "team_b": "FaZe Up Next",
+        "begin_at": "2026-08-28T08:00:00Z",
+        "status": "not_started",
         "streams": [
           {
-            "language": "ru",
-            "url": "https://www.twitch.tv/ten_caster",
-            "official": false
-          },
-          {
             "language": "en",
-            "url": "https://www.twitch.tv/connect_en",
+            "url": "https://kick.com/united21_en",
             "official": true
-          },
-          {
-            "language": "pl",
-            "url": "https://www.twitch.tv/connect_pl",
-            "official": false
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1632649,
-        "league": "Exort Fiesta",
-        "tournament": "Playoffs",
-        "team_a": "STATE",
-        "team_b": "ENCE",
-        "begin_at": "2026-08-27T18:12:53Z",
-        "status": "running",
+        "id": 1651277,
+        "league": "CCT Europe",
+        "tournament": "Group A",
+        "team_a": "WBT",
+        "team_b": "Saint Sinners",
+        "begin_at": "2026-08-28T08:00:00Z",
+        "status": "not_started",
         "streams": [
           {
-            "language": "fi",
-            "url": "https://www.twitch.tv/titaanitv",
-            "official": false
-          },
+            "language": "en",
+            "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1633264,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Group Stage",
+        "team_a": "ex-RUBY",
+        "team_b": "GenOne",
+        "begin_at": "2026-08-28T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1632653,
+        "league": "Exort Fiesta",
+        "tournament": "Playoffs",
+        "team_a": "Nordic Partners Gaming ",
+        "team_b": "Benched gods",
+        "begin_at": "2026-08-28T08:00:00Z",
+        "status": "not_started",
+        "streams": [
           {
             "language": "en",
             "url": "https://kick.com/fiesta_cs",
@@ -424,195 +426,56 @@
       },
       {
         "game": "cs2",
-        "id": 1648087,
-        "league": "Moscow Cyber Games",
-        "tournament": "Group Stage",
-        "team_a": "Nemiga",
-        "team_b": "ex-RUBY",
-        "begin_at": "2026-08-27T18:29:06Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/GLuck_Esports",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/clutchzonetv1",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1648084,
-        "league": "Moscow Cyber Games",
-        "tournament": "Group Stage",
-        "team_a": "FORZE Reload",
-        "team_b": "Black Phoenix",
-        "begin_at": "2026-08-27T18:53:46Z",
-        "status": "running",
+        "id": 1630715,
+        "league": "CCT Europe",
+        "tournament": "Playoffs",
+        "team_a": "Sashi Esport",
+        "team_b": "ex-RUSTEC",
+        "begin_at": "2026-08-28T08:00:00Z",
+        "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/clutchzonetv3",
+            "url": "https://kick.com/cct_cs",
             "official": true
           },
           {
             "language": "ru",
-            "url": "https://www.twitch.tv/gluck_esports_2",
+            "url": "https://www.twitch.tv/betboom_cs_ru3",
             "official": false
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1651147,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Playoffs",
-        "team_a": "Grêmio Esports",
-        "team_b": "ALKA GAMING",
-        "begin_at": "2026-08-27T19:15:55Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/GamersClubCS",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1640372,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "GoldRashers",
-        "team_b": "Banger Gang",
-        "begin_at": "2026-08-27T19:41:42Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1651148,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Playoffs",
-        "team_a": "RED Canids Academy",
-        "team_b": "BESTIA Academy",
-        "begin_at": "2026-08-27T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/GamersClubCS",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1650499,
+        "id": 1650135,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "Keyd",
-        "team_b": "Isurus",
-        "begin_at": "2026-08-27T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://kick.com/locomas",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/cmarty",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1650498,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Bounty Hunters Esports",
-        "team_b": "Turma do Pagode",
-        "begin_at": "2026-08-27T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/tris_mara",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1650497,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "ex-MIBR Academy",
-        "team_b": "MEIA NOITE",
-        "begin_at": "2026-08-27T21:00:00Z",
+        "team_a": "MARKandLARRY",
+        "team_b": "Orgless",
+        "begin_at": "2026-08-28T09:00:00Z",
         "status": "not_started",
         "streams": []
       },
       {
         "game": "cs2",
-        "id": 1650496,
+        "id": 1650132,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "ODDIK",
-        "team_b": "Yawara Esports",
-        "begin_at": "2026-08-27T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/karmaflexxx",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://kick.com/lorranbs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1650529,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "FarmVille",
-        "team_b": "Zomblers",
-        "begin_at": "2026-08-28T01:00:00Z",
+        "team_a": "Rooster",
+        "team_b": "Ground Zero",
+        "begin_at": "2026-08-28T09:00:00Z",
         "status": "not_started",
         "streams": []
       },
       {
         "game": "cs2",
-        "id": 1650528,
+        "id": 1650131,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "NuTorious",
-        "team_b": "Elusive",
-        "begin_at": "2026-08-28T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1650527,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Iowa Stormboar",
-        "team_b": "Villainous",
-        "begin_at": "2026-08-28T01:00:00Z",
+        "team_a": "THUNDER dOWNUNDER",
+        "team_b": "Mindfreak",
+        "begin_at": "2026-08-28T09:00:00Z",
         "status": "not_started",
         "streams": []
       }
