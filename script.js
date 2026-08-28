@@ -1,6 +1,4 @@
-// ---------------------------------------------------------------------------
-// CONFIGURACIÓN
-// ---------------------------------------------------------------------------
+
 const GITHUB_USER = "SoyChris1";
 const GITHUB_REPO = "dashboard";
 const GITHUB_BRANCH = "master";
@@ -62,15 +60,12 @@ const TRADUCCIONES = {
 };
 
 let juegoActivo = "valorant";
-let vistaActiva = "parches"; // "parches" | "partidos"
+let vistaActiva = "parches"; 
 let datosPartidos = null;
 let datosParches = null;
-let paisSeleccionado = null; // objeto de PAISES_LATAM, o null = automático
+let paisSeleccionado = null; 
 let partidosSeguidosSet = new Set();
 
-// ---------------------------------------------------------------------------
-// RELOJ
-// ---------------------------------------------------------------------------
 function actualizarReloj() {
     const el = document.getElementById('reloj');
     if (!el) return;
@@ -81,9 +76,6 @@ function actualizarReloj() {
     el.textContent = `${h}:${m}:${s}`;
 }
 
-// ---------------------------------------------------------------------------
-// TRAER DATOS (con caché local de respaldo)
-// ---------------------------------------------------------------------------
 async function obtenerJSON(url, storageKey) {
     try {
         const resp = await fetch(url, { cache: "no-store" });
@@ -103,9 +95,6 @@ async function obtenerJSON(url, storageKey) {
     }
 }
 
-// ---------------------------------------------------------------------------
-// HELPERS
-// ---------------------------------------------------------------------------
 function idiomaActual() {
     return paisSeleccionado ? paisSeleccionado.idioma : "es";
 }
@@ -203,9 +192,6 @@ function aplicarTextosEstaticos() {
     document.getElementById('modal-desc').textContent = t("modalDesc");
 }
 
-// ---------------------------------------------------------------------------
-// RENDER
-// ---------------------------------------------------------------------------
 function renderParches() {
     const panel = document.getElementById('content-panel');
     const parche = datosParches?.patches?.[juegoActivo];
@@ -281,9 +267,6 @@ function renderEstado(matchesInfo, patchesInfo) {
     }
 }
 
-// ---------------------------------------------------------------------------
-// NAVEGACIÓN
-// ---------------------------------------------------------------------------
 function poblarSelectorPais() {
     const select = document.getElementById('selector-pais');
     select.innerHTML = `<option value="">— Selecciona —</option>` +
@@ -348,9 +331,6 @@ function activarNavegacion() {
     });
 }
 
-// ---------------------------------------------------------------------------
-// INIT
-// ---------------------------------------------------------------------------
 async function init() {
     actualizarReloj();
     setInterval(actualizarReloj, 1000);
