@@ -1,20 +1,4 @@
-"""
-generate_data.py
------------------
-Genera dos archivos JSON que consume la extensión:
-  - matches.json  -> próximos partidos de Valorant, LoL y CS2 (PandaScore)
-  - patches.json  -> últimas notas de parche de Valorant, LoL y CS2
 
-Uso:
-    python generate_data.py                # modo real (requiere PANDASCORE_TOKEN)
-    python generate_data.py --mock         # modo demo, sin llamadas de red
-
-Variables de entorno (crea un archivo .env a partir de .env.example):
-    PANDASCORE_TOKEN=tu_token_gratuito_de_pandascore
-
-Pensado para correr con un cron (GitHub Actions) que commitee los JSON
-generados al repo, y la extensión los lee vía jsDelivr.
-"""
 
 import os
 import sys
@@ -31,20 +15,18 @@ load_dotenv()
 PANDASCORE_TOKEN = os.getenv("PANDASCORE_TOKEN")
 PANDASCORE_BASE = "https://api.pandascore.co"
 
-# Mapeo: nombre interno -> slug que usa PandaScore en la URL
+
 GAMES = {
     "valorant": "valorant",
     "lol": "lol",
-    "cs2": "csgo",  # PandaScore mantiene el namespace "csgo" también para CS2
+    "cs2": "csgo",  
 }
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
 HEADERS = {"User-Agent": "eSportsDashboardPro/1.0 (+extension)"}
 
 
-# ---------------------------------------------------------------------------
-# PARTIDOS (PandaScore)
-# ---------------------------------------------------------------------------
+
 
 def fetch_matches_pandascore(game_key: str, slug: str, per_page: int = 8) -> list:
     """Trae próximos partidos Y partidos en vivo desde PandaScore (plan Fixtures, gratis)."""
@@ -84,7 +66,7 @@ def fetch_matches_pandascore(game_key: str, slug: str, per_page: int = 8) -> lis
                 "streams": streams,
             })
 
-    # Evita duplicados si un partido aparece en ambos endpoints
+    
     vistos = set()
     matches_unicos = []
     for m in matches:
@@ -133,15 +115,13 @@ def build_matches(mock: bool) -> dict:
     for game_key, slug in GAMES.items():
         try:
             data[game_key] = fetch_matches_pandascore(game_key, slug)
-        except Exception as exc:  # no tumbar todo el pipeline por un juego
+        except Exception as exc:  
             print(f"[WARN] No se pudieron obtener partidos de {game_key}: {exc}", file=sys.stderr)
             data[game_key] = []
     return data
 
 
-# ---------------------------------------------------------------------------
-# PARCHES (fuentes oficiales por juego)
-# ---------------------------------------------------------------------------
+
 
 import re
 
@@ -165,7 +145,7 @@ def _limpiar_texto_tarjeta(texto_crudo: str, patron_titulo: str) -> tuple:
     Aquí lo separamos: quitamos categoría+fecha, y usamos un patrón específico
     del juego para encontrar dónde termina el título y empieza la descripción.
     """
-    # Quita "Categoría" + fecha ISO 8601 del inicio
+    
     sin_fecha = re.sub(r"^.*?\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}Z", "", texto_crudo).strip()
 
     match = re.search(patron_titulo, sin_fecha, re.IGNORECASE)
@@ -192,7 +172,7 @@ def fetch_patch_cs2() -> dict:
         return {"game": "cs2", "title": None, "url": None, "date": None, "description": None, "image": None}
 
     latest = patch_items[0]
-    # Steam a veces trae una imagen embebida al inicio del contenido
+    
     imagen = None
     contenido = latest.get("contents", "")
     match_img = re.search(r'(https?://[^\s"\'<>]+\.(?:jpg|jpeg|png))', contenido)
@@ -310,9 +290,7 @@ def build_patches(mock: bool) -> dict:
     return data
 
 
-# ---------------------------------------------------------------------------
-# MAIN
-# ---------------------------------------------------------------------------
+
 
 def main():
     parser = argparse.ArgumentParser()
