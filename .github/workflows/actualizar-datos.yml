@@ -2,7 +2,7 @@ name: Actualizar datos de eSports
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch: {}
 
 permissions:
