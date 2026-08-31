@@ -1,24 +1,7 @@
 {
-  "generated_at": "2026-08-31T00:53:52.347588+00:00",
+  "generated_at": "2026-08-31T06:47:39.380900+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1616175,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "LOUD",
-        "team_b": "MIBR",
-        "begin_at": "2026-08-31T00:16:52Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1661565,
@@ -204,12 +187,17 @@
         "tournament": "Playoffs",
         "team_a": "KT Rolster Challengers",
         "team_b": "Kiwoom DRX Challengers",
-        "begin_at": "2026-08-31T05:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-08-31T05:00:15Z",
+        "status": "running",
         "streams": [
           {
             "language": "ko",
             "url": "https://play-origin.sooplive.com/afchall",
+            "official": false
+          },
+          {
+            "language": "ko",
+            "url": "https://www.twitch.tv/lckclchallengleague",
             "official": true
           }
         ]
@@ -342,76 +330,31 @@
             "official": true
           }
         ]
-      }
-    ],
-    "cs2": [
-      {
-        "game": "cs2",
-        "id": 1657318,
-        "league": "FRAG Midwest",
-        "tournament": "Playoffs",
-        "team_a": "LAG Gaming",
-        "team_b": "SportsBetExpert",
-        "begin_at": "2026-08-31T00:41:23Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fragadelphia",
-            "official": true
-          }
-        ]
       },
       {
-        "game": "cs2",
-        "id": 1650534,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Overtake Sector",
-        "team_b": "Chicken Coop Esports",
-        "begin_at": "2026-08-31T01:00:00Z",
+        "game": "lol",
+        "id": 1630219,
+        "league": "Hitpoint Masters",
+        "tournament": "Regular Season",
+        "team_a": "EXILE esports",
+        "team_b": "CITA Kaizen",
+        "begin_at": "2026-09-01T14:00:00Z",
         "status": "not_started",
         "streams": [
           {
-            "language": "en",
-            "url": "https://www.twitch.tv/chickencoopgg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1650520,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Voca",
-        "team_b": "Marsborne",
-        "begin_at": "2026-08-31T01:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/cmarty",
+            "language": "cs",
+            "url": "https://www.youtube.com/@hitpointcz",
             "official": false
           },
           {
-            "language": "en",
-            "url": "https://www.twitch.tv/eslcs",
+            "language": "cs",
+            "url": "https://www.twitch.tv/hitpointcz",
             "official": true
           }
         ]
-      },
-      {
-        "game": "cs2",
-        "id": 1659361,
-        "league": "ESEA",
-        "tournament": "Regular Season",
-        "team_a": "Falcons Force",
-        "team_b": "NEW VISION",
-        "begin_at": "2026-08-31T04:35:00Z",
-        "status": "not_started",
-        "streams": []
-      },
+      }
+    ],
+    "cs2": [
       {
         "game": "cs2",
         "id": 1661688,
@@ -419,9 +362,15 @@
         "tournament": "Playoffs",
         "team_a": "The Huns Esports",
         "team_b": "Staqued",
-        "begin_at": "2026-08-31T05:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "begin_at": "2026-08-31T05:39:47Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "zh",
+            "url": "https://www.huya.com/30670202",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -487,6 +436,124 @@
             "language": "en",
             "url": "https://kick.com/cct_cs2",
             "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1633292,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Playoffs",
+        "team_a": "BBL",
+        "team_b": "Black Phoenix",
+        "begin_at": "2026-08-31T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/scoresight",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1650139,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "Ground Zero",
+        "team_b": "Arcade Esports",
+        "begin_at": "2026-08-31T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eslcs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1648097,
+        "league": "Moscow Cyber Games",
+        "tournament": "Playoffs",
+        "team_a": "HOTU",
+        "team_b": "SPARTA",
+        "begin_at": "2026-08-31T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://kick.com/gluck-esports",
+            "official": false
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/gluck_esports",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1640193,
+        "league": "BLAST Open",
+        "tournament": "Group A",
+        "team_a": "Spirit",
+        "team_b": "FURIA",
+        "begin_at": "2026-08-31T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "tr",
+            "url": "https://kick.com/maj3r",
+            "official": false
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru",
+            "official": false
+          },
+          {
+            "language": "cs",
+            "url": "https://kick.com/bladeito",
+            "official": false
+          },
+          {
+            "language": "fr",
+            "url": "https://www.twitch.tv/krl_stream",
+            "official": false
+          },
+          {
+            "language": "pl",
+            "url": "https://www.twitch.tv/izakooo",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=yjrJmLWRPLA",
+            "official": false
+          },
+          {
+            "language": "pt",
+            "url": "https://kick.com/gaules",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/blastpremier",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/blastpremier",
+            "official": false
           }
         ]
       }
