@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T04:56:05.394737+00:00",
+  "generated_at": "2026-09-01T09:56:01.165053+00:00",
   "matches": {
     "valorant": [
       {
@@ -167,9 +167,29 @@
         "tournament": "Playoffs",
         "team_a": "Gen.G",
         "team_b": "KT Rolster",
-        "begin_at": "2026-09-01T08:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T08:05:13Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "zh",
+            "url": "https://www.twitch.tv/lck_carry",
+            "official": false
+          },
+          {
+            "language": "vi",
+            "url": "https://www.youtube.com/watch?v=X9djtPIHXdk",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=LDklaKFvhz8",
+            "official": false
+          },
+          {
+            "language": "ko",
+            "url": "https://play.sooplive.com/aflol/296797621",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/lck",
@@ -279,11 +299,11 @@
       },
       {
         "game": "lol",
-        "id": 1618193,
+        "id": 1618191,
         "league": "Rift Legends",
         "tournament": "Gauntlet Stage",
-        "team_a": "Lodis",
-        "team_b": "BOMBA Team",
+        "team_a": "Anonymo Esports",
+        "team_b": "UP2UMEDIA Cebulaki",
         "begin_at": "2026-09-01T15:00:00Z",
         "status": "not_started",
         "streams": [
@@ -315,18 +335,35 @@
             "official": false
           }
         ]
+      },
+      {
+        "game": "lol",
+        "id": 1643628,
+        "league": "LFL",
+        "tournament": "Playoffs",
+        "team_a": "TLN Pirates",
+        "team_b": "Karmine Corp Blue",
+        "begin_at": "2026-09-01T16:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "fr",
+            "url": "https://www.twitch.tv/otplol_",
+            "official": true
+          }
+        ]
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1661697,
+        "id": 1661699,
         "league": "FISSURE PLAYGROUND",
         "tournament": "Playoffs",
-        "team_a": "Staqued",
-        "team_b": "Kaleido Gaming",
-        "begin_at": "2026-09-01T05:00:00Z",
-        "status": "not_started",
+        "team_a": "The Huns Esports",
+        "team_b": "Rare Atom",
+        "begin_at": "2026-09-01T07:15:59Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -337,17 +374,22 @@
       },
       {
         "game": "cs2",
-        "id": 1661699,
-        "league": "FISSURE PLAYGROUND",
+        "id": 1633296,
+        "league": "NODWIN Clutch Series",
         "tournament": "Playoffs",
-        "team_a": "The Huns Esports",
-        "team_b": "Rare Atom",
-        "begin_at": "2026-09-01T07:30:00Z",
-        "status": "not_started",
+        "team_a": "Team Nemesis",
+        "team_b": "SPARTA",
+        "begin_at": "2026-09-01T08:08:17Z",
+        "status": "running",
         "streams": [
           {
+            "language": "ru",
+            "url": "https://www.twitch.tv/watchfulTVb",
+            "official": false
+          },
+          {
             "language": "en",
-            "url": "https://kick.com/dutchboycasts",
+            "url": "https://kick.com/nodwin_cs2",
             "official": true
           }
         ]
@@ -359,8 +401,8 @@
         "tournament": "Group B",
         "team_a": "Falcons Force",
         "team_b": "yologang",
-        "begin_at": "2026-09-01T08:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T08:15:43Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -376,46 +418,12 @@
         "tournament": "Playoffs",
         "team_a": "Teletubisie",
         "team_b": "QUB",
-        "begin_at": "2026-09-01T08:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T08:37:15Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
             "url": "https://kick.com/united21_en",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1651406,
-        "league": "CCT Europe",
-        "tournament": "Play-In",
-        "team_a": "Permitta Esports",
-        "team_b": "Bushido Wildcats",
-        "begin_at": "2026-09-01T08:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs2",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1633296,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Playoffs",
-        "team_a": "Team Nemesis",
-        "team_b": "SPARTA",
-        "begin_at": "2026-09-01T08:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/nodwin_cs2",
             "official": true
           }
         ]
@@ -427,8 +435,8 @@
         "tournament": "Playoffs",
         "team_a": "THUNDER dOWNUNDER",
         "team_b": "Ground Zero",
-        "begin_at": "2026-09-01T09:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T09:05:26Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -444,12 +452,168 @@
         "tournament": "Playoffs",
         "team_a": "Nuclear TigeRES",
         "team_b": "1WIN",
-        "begin_at": "2026-09-01T09:00:00Z",
+        "begin_at": "2026-09-01T09:13:02Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://kick.com/gluck-esports",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/vanfantv",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1661698,
+        "league": "FISSURE PLAYGROUND",
+        "tournament": "Playoffs",
+        "team_a": "Chinggis Warriors",
+        "team_b": "Just Swing",
+        "begin_at": "2026-09-01T10:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/dutchboycasts",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1658039,
+        "league": "European Pro League",
+        "tournament": "Group B",
+        "team_a": "Misa Esports",
+        "team_b": "eternal premium",
+        "begin_at": "2026-09-01T10:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1654206,
+        "league": "United21",
+        "tournament": "Playoffs",
+        "team_a": "EAC Extra",
+        "team_b": "FaZe Up Next",
+        "begin_at": "2026-09-01T10:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/united21_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1651407,
+        "league": "CCT Europe",
+        "tournament": "Play-In",
+        "team_a": "ex-Zero Tenacity",
+        "team_b": "Honvéd",
+        "begin_at": "2026-09-01T11:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1648392,
+        "league": "Logitech G Play Connect",
+        "tournament": "Group D",
+        "team_a": "WRAITH PCIFIC",
+        "team_b": "Brute",
+        "begin_at": "2026-09-01T11:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "tr",
+            "url": "https://www.twitch.tv/r0wincyy",
+            "official": false
+          },
+          {
+            "language": "pl",
+            "url": "https://www.twitch.tv/connect_pl",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/connect_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1633295,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Playoffs",
+        "team_a": "Infinite",
+        "team_b": "Inner Circle Academy",
+        "begin_at": "2026-09-01T11:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/watchfulTVb",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1648102,
+        "league": "Moscow Cyber Games",
+        "tournament": "Playoffs",
+        "team_a": "HOTU",
+        "team_b": "Color",
+        "begin_at": "2026-09-01T12:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "ru",
             "url": "https://www.twitch.tv/gluck_esports",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1661700,
+        "league": "FISSURE PLAYGROUND",
+        "tournament": "Playoffs",
+        "team_a": "5star",
+        "team_b": "NEXVOID",
+        "begin_at": "2026-09-01T12:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/dutchboycasts",
             "official": true
           }
         ]
