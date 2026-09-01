@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:58:08.438593+00:00",
+  "generated_at": "2026-09-01T04:56:05.394737+00:00",
   "matches": {
     "valorant": [
       {
@@ -162,45 +162,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1638617,
-        "league": "Circuito Desafiante",
-        "tournament": "Playoffs",
-        "team_a": "INTZ e-Sports",
-        "team_b": "RMD Gaming",
-        "begin_at": "2026-08-31T20:03:30Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.youtube.com/watch?v=pejKzte7X5k",
-            "official": true
-          },
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/cblol",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
-        "id": 1601269,
-        "league": "LRN",
-        "tournament": "Playoffs",
-        "team_a": "Fuego",
-        "team_b": "3v Team",
-        "begin_at": "2026-08-31T23:08:59Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolacelatam",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1642155,
         "league": "LCK",
         "tournament": "Playoffs",
@@ -359,50 +320,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1650505,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Imperial",
-        "team_b": "ShindeN",
-        "begin_at": "2026-08-31T21:03:03Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/tris_mara",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/cmarty",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1650535,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Marsborne",
-        "team_b": "Overtake Sector",
-        "begin_at": "2026-09-01T01:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/karmaflexxx",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/eslcs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1661697,
         "league": "FISSURE PLAYGROUND",
         "tournament": "Playoffs",
@@ -412,8 +329,8 @@
         "status": "not_started",
         "streams": [
           {
-            "language": "zh",
-            "url": "https://live.bilibili.com/21622808",
+            "language": "en",
+            "url": "https://kick.com/dutchboycasts",
             "official": true
           }
         ]
@@ -429,8 +346,8 @@
         "status": "not_started",
         "streams": [
           {
-            "language": "zh",
-            "url": "https://live.bilibili.com/21622808",
+            "language": "en",
+            "url": "https://kick.com/dutchboycasts",
             "official": true
           }
         ]
@@ -516,6 +433,23 @@
           {
             "language": "en",
             "url": "https://www.twitch.tv/eslcs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1648103,
+        "league": "Moscow Cyber Games",
+        "tournament": "Playoffs",
+        "team_a": "Nuclear TigeRES",
+        "team_b": "1WIN",
+        "begin_at": "2026-09-01T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/gluck_esports",
             "official": true
           }
         ]
