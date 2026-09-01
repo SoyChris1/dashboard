@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T09:56:01.165053+00:00",
+  "generated_at": "2026-09-01T14:43:53.507934+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
@@ -19,11 +19,11 @@
     },
     "valorant": {
       "game": "valorant",
-      "title": "VALORANT Patch Notes 13.04",
-      "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-04",
+      "title": "VALORANT Patch Notes 13.05",
+      "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-05",
       "date": null,
-      "description": "New map rotation and bug fixes for Agents and melee skins",
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/610c12b411c40e6af76eec5d50646a56baf5dc26-1920x1080.jpg?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center"
+      "description": "Pick’Ems for Champs soon, penalties for stream sniping and instalock tools, and future changes to the Agent Gear system.",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/727fb02ae2fc0a5d8c98ea46885b29a782ac2bd5-1920x1080.jpg?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center"
     }
   }
 }
