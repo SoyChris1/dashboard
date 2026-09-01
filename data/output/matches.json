@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-09-01T20:58:16.190278+00:00",
+  "generated_at": "2026-09-01T23:14:39.794072+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641323,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "The Spiders",
-        "team_b": "Axolotl",
-        "begin_at": "2026-09-01T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "valorant",
-        "id": 1641322,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "FlyQuest RED",
-        "team_b": "MVSK Secret",
-        "begin_at": "2026-09-01T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/raidiantgg",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1641325,
@@ -43,8 +9,8 @@
         "tournament": "Playoffs",
         "team_a": "Shopify Rebellion Gold",
         "team_b": "HIMMERS",
-        "begin_at": "2026-09-01T23:30:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T23:04:25Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -65,8 +31,8 @@
         "tournament": "Playoffs",
         "team_a": "SwimTrek Blue",
         "team_b": "Cloud9 GC",
-        "begin_at": "2026-09-01T23:30:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T23:04:28Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -162,31 +128,77 @@
             "official": false
           }
         ]
-      }
-    ],
-    "lol": [
+      },
       {
-        "game": "lol",
-        "id": 1638618,
-        "league": "Circuito Desafiante",
+        "game": "valorant",
+        "id": 1641328,
+        "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "Ei Nerd Esports",
-        "team_b": "KaBuM! Ilha das Lendas",
-        "begin_at": "2026-09-01T20:04:47Z",
-        "status": "running",
+        "team_a": "MVSK Secret",
+        "team_b": "The Spiders",
+        "begin_at": "2026-09-02T21:00:00Z",
+        "status": "not_started",
         "streams": [
           {
-            "language": "pt",
-            "url": "https://www.twitch.tv/cblol",
-            "official": true
-          },
-          {
-            "language": "pt",
-            "url": "https://www.youtube.com/watch?v=nH94C-KhBy0",
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_americas",
             "official": true
           }
         ]
       },
+      {
+        "game": "valorant",
+        "id": 1641326,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "FlyQuest RED",
+        "team_b": "Axolotl",
+        "begin_at": "2026-09-02T21:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_americas",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "valorant",
+        "id": 1641329,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-02T23:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_americas",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "valorant",
+        "id": 1641327,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-02T23:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_americas",
+            "official": true
+          }
+        ]
+      }
+    ],
+    "lol": [
       {
         "game": "lol",
         "id": 1595031,
@@ -364,12 +376,12 @@
         "tournament": "Playoffs",
         "team_a": "Galorys",
         "team_b": "Imperial",
-        "begin_at": "2026-09-01T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T21:07:16Z",
+        "status": "running",
         "streams": [
           {
             "language": "pt",
-            "url": "https://www.twitch.tv/r_nicolino",
+            "url": "https://kick.com/kabrafps",
             "official": false
           },
           {
@@ -391,8 +403,8 @@
         "tournament": "Group Stage",
         "team_a": "paiN Academy",
         "team_b": "Grêmio Esports",
-        "begin_at": "2026-09-01T22:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-01T22:10:57Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -424,7 +436,7 @@
         "tournament": "Playoffs",
         "team_a": "NEXVOID",
         "team_b": "Kaleido Gaming",
-        "begin_at": "2026-09-02T05:00:00Z",
+        "begin_at": "2026-09-02T03:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -498,6 +510,40 @@
           {
             "language": "en",
             "url": "https://www.twitch.tv/ESLCS",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1661702,
+        "league": "FISSURE PLAYGROUND",
+        "tournament": "Playoffs",
+        "team_a": "The Huns Esports",
+        "team_b": "Chinggis Warriors",
+        "begin_at": "2026-09-02T07:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "zh",
+            "url": "https://live.bilibili.com/21622808",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1658043,
+        "league": "European Pro League",
+        "tournament": "Group C",
+        "team_a": "Permitta Esports",
+        "team_b": "megoshort",
+        "begin_at": "2026-09-02T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
             "official": true
           }
         ]
