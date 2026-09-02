@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-01T23:14:39.794072+00:00",
+  "generated_at": "2026-09-02T01:05:41.024641+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641325,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Shopify Rebellion Gold",
-        "team_b": "HIMMERS",
-        "begin_at": "2026-09-01T23:04:25Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/melanji",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/raidiantgg",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1641324,
@@ -168,7 +146,7 @@
         "id": 1641329,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "TBD",
+        "team_a": "HIMMERS",
         "team_b": "TBD",
         "begin_at": "2026-09-02T23:30:00Z",
         "status": "not_started",
@@ -185,7 +163,7 @@
         "id": 1641327,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "TBD",
+        "team_a": "Shopify Rebellion Gold",
         "team_b": "TBD",
         "begin_at": "2026-09-02T23:30:00Z",
         "status": "not_started",
@@ -199,23 +177,6 @@
       }
     ],
     "lol": [
-      {
-        "game": "lol",
-        "id": 1595031,
-        "league": "LRS",
-        "tournament": "Playoffs",
-        "team_a": "Golden Lions",
-        "team_b": "Maze Gaming",
-        "begin_at": "2026-09-01T20:08:51Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolacelatam",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "lol",
         "id": 1642156,
@@ -369,33 +330,6 @@
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1650491,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Galorys",
-        "team_b": "Imperial",
-        "begin_at": "2026-09-01T21:07:16Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/kabrafps",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/cmarty",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/eslcs",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "cs2",
         "id": 1645110,
