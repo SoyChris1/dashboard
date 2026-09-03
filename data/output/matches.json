@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-09-02T23:15:26.201418+00:00",
+  "generated_at": "2026-09-03T01:12:08.191760+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641326,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "FlyQuest RED",
-        "team_b": "Axolotl",
-        "begin_at": "2026-09-02T21:14:17Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "valorant",
-        "id": 1641328,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "MVSK Secret",
-        "team_b": "The Spiders",
-        "begin_at": "2026-09-02T21:14:18Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/RaidiantGG",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1641329,
@@ -43,8 +9,8 @@
         "tournament": "Playoffs",
         "team_a": "Cloud9 GC",
         "team_b": "HIMMERS",
-        "begin_at": "2026-09-03T00:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-03T00:03:03Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -60,8 +26,8 @@
         "tournament": "Playoffs",
         "team_a": "SwimTrek Blue",
         "team_b": "Shopify Rebellion Gold",
-        "begin_at": "2026-09-03T00:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-03T00:46:18Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -201,6 +167,40 @@
             "official": false
           }
         ]
+      },
+      {
+        "game": "valorant",
+        "id": 1641330,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "The Spiders",
+        "team_b": "TBD",
+        "begin_at": "2026-09-03T21:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_americas",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "valorant",
+        "id": 1641331,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "Axolotl",
+        "team_b": "TBD",
+        "begin_at": "2026-09-03T23:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_americas",
+            "official": true
+          }
+        ]
       }
     ],
     "lol": [
@@ -275,8 +275,8 @@
         "id": 1639625,
         "league": "TCL",
         "tournament": "Playoffs",
-        "team_a": "PCIFIC ",
-        "team_b": "SU Esports",
+        "team_a": "SU Esports",
+        "team_b": "PCIFIC ",
         "begin_at": "2026-09-03T15:00:00Z",
         "status": "not_started",
         "streams": [
