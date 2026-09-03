@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-09-03T01:12:08.191760+00:00",
+  "generated_at": "2026-09-03T05:53:07.094066+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641329,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Cloud9 GC",
-        "team_b": "HIMMERS",
-        "begin_at": "2026-09-03T00:03:03Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/RaidiantGG",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "valorant",
-        "id": 1641327,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "SwimTrek Blue",
-        "team_b": "Shopify Rebellion Gold",
-        "begin_at": "2026-09-03T00:46:18Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1664681,
@@ -174,7 +140,7 @@
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "The Spiders",
-        "team_b": "TBD",
+        "team_b": "SwimTrek Blue",
         "begin_at": "2026-09-03T21:00:00Z",
         "status": "not_started",
         "streams": [
@@ -191,7 +157,7 @@
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "Axolotl",
-        "team_b": "TBD",
+        "team_b": "HIMMERS",
         "begin_at": "2026-09-03T23:30:00Z",
         "status": "not_started",
         "streams": [
