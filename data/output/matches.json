@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T21:02:37.021291+00:00",
+  "generated_at": "2026-09-03T23:14:47.251963+00:00",
   "matches": {
     "valorant": [
       {
@@ -9,8 +9,8 @@
         "tournament": "Playoffs",
         "team_a": "SwimTrek Blue",
         "team_b": "The Spiders",
-        "begin_at": "2026-09-03T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-03T21:11:31Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -26,7 +26,7 @@
         "tournament": "Playoffs",
         "team_a": "Axolotl",
         "team_b": "HIMMERS",
-        "begin_at": "2026-09-03T23:30:00Z",
+        "begin_at": "2026-09-04T00:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -140,7 +140,7 @@
         "league": "THE POKAL",
         "tournament": "Playoffs",
         "team_a": "BERG",
-        "team_b": "Eintracht Frankfurt",
+        "team_b": "SGE & Friends",
         "begin_at": "2026-09-04T15:00:00Z",
         "status": "not_started",
         "streams": [
@@ -177,26 +177,31 @@
             "official": false
           }
         ]
+      },
+      {
+        "game": "valorant",
+        "id": 1661583,
+        "league": "THE POKAL",
+        "tournament": "Playoffs",
+        "team_a": "ALTERNATE aTTaX",
+        "team_b": "HooK Esport",
+        "begin_at": "2026-09-04T15:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "de",
+            "url": "https://www.twitch.tv/valorantleague_dach",
+            "official": true
+          },
+          {
+            "language": "de",
+            "url": "https://www.youtube.com/@ChallengersDACH/live",
+            "official": false
+          }
+        ]
       }
     ],
     "lol": [
-      {
-        "game": "lol",
-        "id": 1598340,
-        "league": "LPLOL",
-        "tournament": "Playoffs",
-        "team_a": "Dominion Goblins",
-        "team_b": "Dream Esports",
-        "begin_at": "2026-09-03T18:11:42Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenalol",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "lol",
         "id": 1636128,
@@ -204,8 +209,8 @@
         "tournament": "Playoffs",
         "team_a": "Maryville University",
         "team_b": "Contingent Esports",
-        "begin_at": "2026-09-03T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-03T21:11:30Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -312,8 +317,8 @@
         "id": 1618198,
         "league": "Rift Legends",
         "tournament": "Gauntlet Stage",
-        "team_a": "DOCISK",
-        "team_b": "Lodis",
+        "team_a": "Lodis",
+        "team_b": "DOCISK",
         "begin_at": "2026-09-04T17:00:00Z",
         "status": "not_started",
         "streams": [
@@ -356,44 +361,44 @@
         "begin_at": "2026-09-05T04:00:00Z",
         "status": "not_started",
         "streams": []
+      },
+      {
+        "game": "lol",
+        "id": 1586814,
+        "league": "LJL",
+        "tournament": "Playoffs",
+        "team_a": "New Meta",
+        "team_b": "L Guide Gaming",
+        "begin_at": "2026-09-05T05:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ja",
+            "url": "https://www.youtube.com/@official_LJL",
+            "official": true
+          },
+          {
+            "language": "ja",
+            "url": "https://www.twitch.tv/leagueoflegendsjp",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/ljl_officially_unofficial",
+            "official": false
+          }
+        ]
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1633306,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Playoffs",
-        "team_a": "3DMAX",
-        "team_b": "HOTU",
-        "begin_at": "2026-09-03T18:01:07Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "fr",
-            "url": "https://www.twitch.tv/nagu_fr",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/scoresight",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/nodwin_cs2",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1645119,
+        "id": 1645116,
         "league": "CCT South America",
         "tournament": "Playoffs",
-        "team_a": "Yawara Esports",
-        "team_b": "paiN Academy",
-        "begin_at": "2026-09-03T19:13:29Z",
+        "team_a": "Keyd",
+        "team_b": "Procyon Gaming",
+        "begin_at": "2026-09-03T23:13:24Z",
         "status": "running",
         "streams": [
           {
@@ -415,25 +420,25 @@
       },
       {
         "game": "cs2",
-        "id": 1645116,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "Keyd",
-        "team_b": "Procyon Gaming",
-        "begin_at": "2026-09-03T22:00:00Z",
+        "id": 1669683,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "Marsborne",
+        "team_b": "FarmVille",
+        "begin_at": "2026-09-03T23:30:00Z",
         "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/betboom_cs_ru5",
-            "official": false
-          }
-        ]
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1669680,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "SportsBetExpert",
+        "team_b": "Axial",
+        "begin_at": "2026-09-03T23:30:00Z",
+        "status": "not_started",
+        "streams": []
       },
       {
         "game": "cs2",
@@ -444,7 +449,13 @@
         "team_b": "Overtake Sector",
         "begin_at": "2026-09-04T00:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/iowastormboar",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -466,7 +477,18 @@
         "team_b": "Detonate",
         "begin_at": "2026-09-04T00:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/nutorious_gg",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/ynotcs2",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -477,7 +499,13 @@
         "team_b": "Without a Roof",
         "begin_at": "2026-09-04T00:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "es",
+            "url": "https://www.twitch.tv/nattjr13",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -488,18 +516,13 @@
         "team_b": "Beyond Limits",
         "begin_at": "2026-09-04T00:00:00Z",
         "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1669683,
-        "league": "NSTLGA League",
-        "tournament": "Group Stage",
-        "team_a": "Marsborne",
-        "team_b": "FarmVille",
-        "begin_at": "2026-09-04T00:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/byndlimits",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -508,9 +531,15 @@
         "tournament": "Group Stage",
         "team_a": "Chicken Coop Esports",
         "team_b": "For Fun v4",
-        "begin_at": "2026-09-04T00:00:00Z",
+        "begin_at": "2026-09-04T00:30:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/chickencoopgg",
+            "official": true
+          }
+        ]
       }
     ]
   }
