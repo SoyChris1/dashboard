@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T04:36:59.749205+00:00",
+  "generated_at": "2026-09-05T08:36:02.703639+00:00",
   "matches": {
     "valorant": [
       {
@@ -9,9 +9,14 @@
         "tournament": "Playoffs",
         "team_a": "Global Esports",
         "team_b": "T1",
-        "begin_at": "2026-09-05T08:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-05T08:07:18Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "ko",
+            "url": "https://www.youtube.com/watch?v=_EzwEeoP56o",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/valorant_pacific",
@@ -19,7 +24,7 @@
           },
           {
             "language": "en",
-            "url": "https://www.youtube.com/@VCTPacific/live",
+            "url": "https://www.youtube.com/watch?v=0-rCgacITXA",
             "official": false
           },
           {
@@ -182,53 +187,31 @@
             "official": true
           }
         ]
-      }
-    ],
-    "lol": [
-      {
-        "game": "lol",
-        "id": 1646028,
-        "league": "FLASH",
-        "tournament": "Playoffs",
-        "team_a": "Gromp Esports",
-        "team_b": "Onetricks",
-        "begin_at": "2026-09-05T04:01:40Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/FLASHOceania",
-            "official": true
-          }
-        ]
       },
       {
-        "game": "lol",
-        "id": 1586814,
-        "league": "LJL",
+        "game": "valorant",
+        "id": 1664688,
+        "league": "China Evolution Series",
         "tournament": "Playoffs",
-        "team_a": "New Meta",
-        "team_b": "L Guide Gaming",
-        "begin_at": "2026-09-05T05:00:00Z",
+        "team_a": "Dragon Ranger Gaming",
+        "team_b": "Any Questions Gaming",
+        "begin_at": "2026-09-06T11:00:00Z",
         "status": "not_started",
         "streams": [
           {
-            "language": "en",
-            "url": "https://www.twitch.tv/ljl_officially_unofficial",
+            "language": "zh",
+            "url": "https://live.bilibili.com/22908869",
             "official": false
           },
           {
-            "language": "ja",
-            "url": "https://www.twitch.tv/leagueoflegendsjp",
-            "official": true
-          },
-          {
-            "language": "ja",
-            "url": "https://www.youtube.com/watch?v=mwHrKkBrCMY",
+            "language": "zh",
+            "url": "https://www.twitch.tv/valorantesports_cn",
             "official": true
           }
         ]
-      },
+      }
+    ],
+    "lol": [
       {
         "game": "lol",
         "id": 1643094,
@@ -236,9 +219,14 @@
         "tournament": "Playoffs",
         "team_a": "Invictus Gaming",
         "team_b": "Top Esports",
-        "begin_at": "2026-09-05T06:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-05T06:08:51Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "vi",
+            "url": "https://www.twitch.tv/blvlamsung",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/lplenglish",
@@ -251,7 +239,7 @@
           },
           {
             "language": "en",
-            "url": "https://www.youtube.com/@LPL_English/live",
+            "url": "https://www.youtube.com/watch?v=M2VKP94V3yk",
             "official": false
           }
         ]
@@ -263,40 +251,13 @@
         "tournament": "Playoffs",
         "team_a": "Gen.G",
         "team_b": "Hanwha Life Esports",
-        "begin_at": "2026-09-05T08:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-05T08:07:36Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
             "url": "https://www.twitch.tv/lck",
             "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
-        "id": 1643095,
-        "league": "LPL",
-        "tournament": "Playoffs",
-        "team_a": "Ninjas in Pyjamas",
-        "team_b": "JD Gaming",
-        "begin_at": "2026-09-05T09:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lplenglish",
-            "official": true
-          },
-          {
-            "language": "zh",
-            "url": "https://live.bilibili.com/7734200",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/@LPL_English/live",
-            "official": false
           }
         ]
       },
@@ -331,6 +292,38 @@
             "language": "fr",
             "url": "https://www.twitch.tv/teamtskofficiel",
             "official": true
+          }
+        ]
+      },
+      {
+        "game": "lol",
+        "id": 1643095,
+        "league": "LPL",
+        "tournament": "Playoffs",
+        "team_a": "Ninjas in Pyjamas",
+        "team_b": "JD Gaming",
+        "begin_at": "2026-09-05T10:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "vi",
+            "url": "https://www.twitch.tv/blvlamsung",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/lplenglish",
+            "official": true
+          },
+          {
+            "language": "zh",
+            "url": "https://live.bilibili.com/7734200",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=M2VKP94V3yk",
+            "official": false
           }
         ]
       },
@@ -372,48 +365,90 @@
             "official": false
           }
         ]
-      }
-    ],
-    "cs2": [
-      {
-        "game": "cs2",
-        "id": 1670359,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "EMPIRE",
-        "team_b": "Without a Roof",
-        "begin_at": "2026-09-05T03:22:52Z",
-        "status": "running",
-        "streams": []
       },
       {
-        "game": "cs2",
-        "id": 1670358,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Marsborne",
-        "team_b": "Incognito",
-        "begin_at": "2026-09-05T03:36:59Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1658040,
-        "league": "European Pro League",
-        "tournament": "Group B",
-        "team_a": "yologang",
-        "team_b": "eternal premium",
-        "begin_at": "2026-09-05T08:00:00Z",
+        "game": "lol",
+        "id": 1563959,
+        "league": "LCS",
+        "tournament": "Regular Season",
+        "team_a": "Sentinels",
+        "team_b": "Cloud9",
+        "begin_at": "2026-09-05T20:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://kick.com/eplcs_en",
+            "url": "https://www.twitch.tv/lcs",
             "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/@LCS/live",
+            "official": false
+          },
+          {
+            "language": "ko",
+            "url": "https://play.sooplive.co.kr/leclcs",
+            "official": false
           }
         ]
       },
+      {
+        "game": "lol",
+        "id": 1563960,
+        "league": "LCS",
+        "tournament": "Regular Season",
+        "team_a": "Team Liquid",
+        "team_b": "Dignitas",
+        "begin_at": "2026-09-05T23:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/lcs",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/@LCS/live",
+            "official": false
+          },
+          {
+            "language": "ko",
+            "url": "https://play.sooplive.co.kr/leclcs",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "lol",
+        "id": 1586813,
+        "league": "LJL",
+        "tournament": "Playoffs",
+        "team_a": "FENNEL",
+        "team_b": "New Meta",
+        "begin_at": "2026-09-06T05:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ja",
+            "url": "https://www.youtube.com/@official_LJL",
+            "official": true
+          },
+          {
+            "language": "ja",
+            "url": "https://www.twitch.tv/leagueoflegendsjp",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/ljl_officially_unofficial",
+            "official": false
+          }
+        ]
+      }
+    ],
+    "cs2": [
       {
         "game": "cs2",
         "id": 1651582,
@@ -421,9 +456,14 @@
         "tournament": "Group Stage",
         "team_a": "Esport Academy Copenhagen",
         "team_b": "WRAITH PCIFIC",
-        "begin_at": "2026-09-05T08:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-05T08:03:20Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru4",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://kick.com/cct_cs2",
@@ -441,6 +481,16 @@
         "begin_at": "2026-09-05T09:00:00Z",
         "status": "not_started",
         "streams": [
+          {
+            "language": "uk",
+            "url": "https://kick.com/leniniw",
+            "official": false
+          },
+          {
+            "language": "ru",
+            "url": "https://kick.com/tsunamijkee",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://kick.com/starladder",
@@ -479,11 +529,6 @@
             "language": "en",
             "url": "https://kick.com/cct_cs4",
             "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
-            "official": false
           }
         ]
       },
@@ -520,6 +565,16 @@
         "status": "not_started",
         "streams": [
           {
+            "language": "uk",
+            "url": "https://www.twitch.tv/leoteam_cs2",
+            "official": false
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru4",
+            "official": false
+          },
+          {
             "language": "en",
             "url": "https://kick.com/cct_cs2",
             "official": true
@@ -537,6 +592,11 @@
         "status": "not_started",
         "streams": [
           {
+            "language": "ru",
+            "url": "https://www.twitch.tv/narodcast2",
+            "official": false
+          },
+          {
             "language": "en",
             "url": "https://www.twitch.tv/connect_en",
             "official": true
@@ -544,6 +604,50 @@
           {
             "language": "pl",
             "url": "https://www.twitch.tv/connect_pl",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1664395,
+        "league": "Stake Ranked",
+        "tournament": "Playoffs",
+        "team_a": "HOTU",
+        "team_b": "FOKUS",
+        "begin_at": "2026-09-05T11:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://kick.com/tsunamijkee",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/starladder",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1645124,
+        "league": "CCT South America",
+        "tournament": "Playoffs",
+        "team_a": "Bounty Hunters Esports",
+        "team_b": "Yawara Esports",
+        "begin_at": "2026-09-05T13:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs3",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru5",
             "official": false
           }
         ]
