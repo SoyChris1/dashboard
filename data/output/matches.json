@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:20:56.012651+00:00",
+  "generated_at": "2026-09-05T23:04:56.090819+00:00",
   "matches": {
     "valorant": [
       {
@@ -189,45 +189,13 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1563959,
-        "league": "LCS",
-        "tournament": "Regular Season",
-        "team_a": "Sentinels",
-        "team_b": "Cloud9",
-        "begin_at": "2026-09-05T20:06:32Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolesportsla",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=v07bk9yXL_k",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lcs",
-            "official": true
-          },
-          {
-            "language": "ko",
-            "url": "https://play.sooplive.co.kr/leclcs",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1563960,
         "league": "LCS",
         "tournament": "Regular Season",
         "team_a": "Team Liquid",
         "team_b": "Dignitas",
-        "begin_at": "2026-09-05T23:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-05T21:57:55Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -236,7 +204,7 @@
           },
           {
             "language": "en",
-            "url": "https://www.youtube.com/@LCS/live",
+            "url": "https://www.youtube.com/watch?v=v07bk9yXL_k",
             "official": false
           },
           {
@@ -404,31 +372,31 @@
             "official": false
           }
         ]
-      }
-    ],
-    "cs2": [
+      },
       {
-        "game": "cs2",
-        "id": 1645125,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "Peladona",
-        "team_b": "Imperial",
-        "begin_at": "2026-09-05T19:03:01Z",
-        "status": "running",
+        "game": "lol",
+        "id": 1630228,
+        "league": "Hitpoint Masters",
+        "tournament": "Regular Season",
+        "team_a": "Meavedron",
+        "team_b": "eSuba",
+        "begin_at": "2026-09-06T12:00:00Z",
+        "status": "not_started",
         "streams": [
           {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
+            "language": "cs",
+            "url": "https://www.twitch.tv/hitpointcz",
             "official": true
           },
           {
-            "language": "ru",
-            "url": "https://www.twitch.tv/betboom_cs_ru5",
+            "language": "cs",
+            "url": "https://www.youtube.com/@hitpointcz",
             "official": false
           }
         ]
-      },
+      }
+    ],
+    "cs2": [
       {
         "game": "cs2",
         "id": 1645122,
@@ -436,9 +404,14 @@
         "tournament": "Playoffs",
         "team_a": "Galorys",
         "team_b": "ODDIK",
-        "begin_at": "2026-09-05T22:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-05T22:24:05Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "pt",
+            "url": "https://www.twitch.tv/tris_mara",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://kick.com/cct_cs3",
@@ -453,17 +426,56 @@
       },
       {
         "game": "cs2",
-        "id": 1669707,
+        "id": 1669704,
         "league": "NSTLGA League",
         "tournament": "Group Stage",
-        "team_a": "SportsBetExpert",
-        "team_b": "Iowa Stormboar",
+        "team_a": "Detonate",
+        "team_b": "FarmVille",
         "begin_at": "2026-09-05T23:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/iowastormboar",
+            "url": "https://www.twitch.tv/blakert_cs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1669703,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "Without a Roof",
+        "team_b": "Beyond Limits",
+        "begin_at": "2026-09-05T23:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/cmarty",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/nstlga_gg",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1669702,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "Wanted Goons",
+        "team_b": "For Fun",
+        "begin_at": "2026-09-05T23:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/lionheartzcs2",
             "official": true
           }
         ]
@@ -475,42 +487,20 @@
         "tournament": "Group Stage",
         "team_a": "Overtake Sector",
         "team_b": "Axial",
-        "begin_at": "2026-09-05T23:00:00Z",
+        "begin_at": "2026-09-05T23:30:00Z",
         "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1669704,
-        "league": "NSTLGA League",
-        "tournament": "Group Stage",
-        "team_a": "Detonate",
-        "team_b": "FarmVille",
-        "begin_at": "2026-09-05T23:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1669703,
-        "league": "NSTLGA League",
-        "tournament": "Group Stage",
-        "team_a": "Without a Roof",
-        "team_b": "Beyond Limits",
-        "begin_at": "2026-09-05T23:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1669702,
-        "league": "NSTLGA League",
-        "tournament": "Group Stage",
-        "team_a": "Wanted Goons",
-        "team_b": "For Fun",
-        "begin_at": "2026-09-05T23:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/sv_theunknown",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/truenorthstudio",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -533,6 +523,34 @@
         "begin_at": "2026-09-06T00:30:00Z",
         "status": "not_started",
         "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1669706,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "Marsborne",
+        "team_b": "LAG Gaming",
+        "begin_at": "2026-09-06T00:30:00Z",
+        "status": "not_started",
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1669707,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "SportsBetExpert",
+        "team_b": "Iowa Stormboar",
+        "begin_at": "2026-09-06T01:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/iowastormboar",
+            "official": true
+          }
+        ]
       }
     ]
   }
