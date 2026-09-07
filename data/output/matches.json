@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:27:23.984246+00:00",
+  "generated_at": "2026-09-07T00:17:06.393050+00:00",
   "matches": {
     "valorant": [
       {
@@ -162,48 +162,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1563962,
-        "league": "LCS",
-        "tournament": "Regular Season",
-        "team_a": "LYON",
-        "team_b": "Disguised",
-        "begin_at": "2026-09-06T21:48:12Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "hu",
-            "url": "https://www.twitch.tv/makariagaming",
-            "official": false
-          },
-          {
-            "language": "fr",
-            "url": "https://www.twitch.tv/zerotick_",
-            "official": false
-          },
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolesportsla",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lcs",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=kEsofDOdNyA",
-            "official": false
-          },
-          {
-            "language": "ko",
-            "url": "https://play.sooplive.co.kr/leclcs",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1589549,
         "league": "LCK Challengers League",
         "tournament": "Playoffs",
@@ -362,28 +320,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1673555,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Isurus",
-        "team_b": "wachoskys",
-        "begin_at": "2026-09-06T22:14:08Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1673554,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Back to Back ",
-        "team_b": "METANOIA WOLVES",
-        "begin_at": "2026-09-06T22:16:28Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
         "id": 1673556,
         "league": "PGL Masters",
         "tournament": "Playoffs",
@@ -400,19 +336,8 @@
         "tournament": "Playoffs",
         "team_a": "Bounty Hunters Esports",
         "team_b": "RED Canids Academy",
-        "begin_at": "2026-09-06T22:40:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1669718,
-        "league": "NSTLGA League",
-        "tournament": "Group Stage",
-        "team_a": "TBD",
-        "team_b": "TBD",
-        "begin_at": "2026-09-07T00:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-06T23:04:08Z",
+        "status": "running",
         "streams": []
       },
       {
@@ -420,22 +345,56 @@
         "id": 1669717,
         "league": "NSTLGA League",
         "tournament": "Group Stage",
-        "team_a": "TBD",
-        "team_b": "TBD",
-        "begin_at": "2026-09-07T00:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "team_a": "Without a Roof",
+        "team_b": "For Fun",
+        "begin_at": "2026-09-06T23:07:15Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/nstlga_gg",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
         "id": 1669716,
         "league": "NSTLGA League",
         "tournament": "Group Stage",
-        "team_a": "TBD",
-        "team_b": "TBD",
-        "begin_at": "2026-09-07T00:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "team_a": "Beyond Limits",
+        "team_b": "FarmVille",
+        "begin_at": "2026-09-07T00:12:02Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/byndlimits",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1669718,
+        "league": "NSTLGA League",
+        "tournament": "Group Stage",
+        "team_a": "Detonate",
+        "team_b": "regain",
+        "begin_at": "2026-09-07T00:12:06Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/regaincs",
+            "official": true
+          },
+          {
+            "language": "es",
+            "url": "https://www.twitch.tv/sv_theunknown",
+            "official": false
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -478,6 +437,50 @@
         "team_a": "Villainous",
         "team_b": "Axial",
         "begin_at": "2026-09-07T01:00:00Z",
+        "status": "not_started",
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1673558,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "Isurus",
+        "team_b": "TBD",
+        "begin_at": "2026-09-07T01:00:00Z",
+        "status": "not_started",
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1673557,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "Back to Back ",
+        "team_b": "TBD",
+        "begin_at": "2026-09-07T01:00:00Z",
+        "status": "not_started",
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1673564,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-07T04:00:00Z",
+        "status": "not_started",
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1673563,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-07T04:00:00Z",
         "status": "not_started",
         "streams": []
       }
