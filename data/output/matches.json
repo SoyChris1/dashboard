@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:15:11.015632+00:00",
+  "generated_at": "2026-09-08T00:30:25.912720+00:00",
   "matches": {
     "valorant": [
       {
@@ -162,35 +162,13 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1638619,
-        "league": "Circuito Desafiante",
-        "tournament": "Playoffs",
-        "team_a": "INTZ e-Sports",
-        "team_b": "KaBuM! Ilha das Lendas",
-        "begin_at": "2026-09-07T20:05:38Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/cblol",
-            "official": true
-          },
-          {
-            "language": "pt",
-            "url": "https://www.youtube.com/@CBLOL/live",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1601270,
         "league": "LRN",
         "tournament": "Playoffs",
         "team_a": "Zeu5 Esports",
         "team_b": "Fuego",
-        "begin_at": "2026-09-07T23:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-07T23:06:47Z",
+        "status": "running",
         "streams": [
           {
             "language": "es",
@@ -330,6 +308,23 @@
             "language": "fr",
             "url": "https://www.twitch.tv/ouat_tv",
             "official": false
+          }
+        ]
+      },
+      {
+        "game": "lol",
+        "id": 1598342,
+        "league": "LPLOL",
+        "tournament": "Playoffs",
+        "team_a": "White Dragons",
+        "team_b": "Dominion Goblins",
+        "begin_at": "2026-09-08T18:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://www.twitch.tv/rtparenalol",
+            "official": true
           }
         ]
       }
