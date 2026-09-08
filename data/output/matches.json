@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:40:22.337116+00:00",
+  "generated_at": "2026-09-08T22:59:40.128184+00:00",
   "matches": {
     "valorant": [
       {
@@ -9,9 +9,14 @@
         "tournament": "Playoffs",
         "team_a": "FlyQuest RED",
         "team_b": "Shopify Rebellion Gold",
-        "begin_at": "2026-09-08T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-08T21:13:32Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=7A7x-oCVLNQ",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/valorant_americas",
@@ -29,6 +34,11 @@
         "begin_at": "2026-09-08T23:30:00Z",
         "status": "not_started",
         "streams": [
+          {
+            "language": "en",
+            "url": "https://www.youtube.com/watch?v=7A7x-oCVLNQ",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/valorant_americas",
@@ -157,6 +167,23 @@
             "official": true
           }
         ]
+      },
+      {
+        "game": "valorant",
+        "id": 1625731,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "MIBR GC",
+        "team_b": "Team Liquid Brazil",
+        "begin_at": "2026-09-09T23:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://www.twitch.tv/valorant_br",
+            "official": true
+          }
+        ]
       }
     ],
     "lol": [
@@ -189,7 +216,7 @@
         "tournament": "Playoffs",
         "team_a": "9z Globant",
         "team_b": "Golden Lions",
-        "begin_at": "2026-09-08T20:30:26Z",
+        "begin_at": "2026-09-08T20:35:37Z",
         "status": "running",
         "streams": [
           {
@@ -349,40 +376,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1676096,
-        "league": "CCT Europe",
-        "tournament": "Playoffs",
-        "team_a": "DINERO",
-        "team_b": "BOJONG",
-        "begin_at": "2026-09-08T18:18:34Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs6",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676093,
-        "league": "CCT Europe",
-        "tournament": "Playoffs",
-        "team_a": "gothboiclique",
-        "team_b": "MADMAN",
-        "begin_at": "2026-09-08T18:45:32Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs7",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1674257,
         "league": "FISSURE PLAYGROUND",
         "tournament": "Group A",
@@ -522,22 +515,17 @@
       },
       {
         "game": "cs2",
-        "id": 1678025,
-        "league": "Thunderpick World Championship",
-        "tournament": "Group B",
-        "team_a": "HOTU",
-        "team_b": "Wildcard",
+        "id": 1679374,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Play-In Group B",
+        "team_a": "Entropy",
+        "team_b": "ENCE",
         "begin_at": "2026-09-09T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/thunderpicktv",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/thunderpick",
+            "url": "https://kick.com/nodwin_cs2",
             "official": true
           }
         ]
