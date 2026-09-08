@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:30:25.912720+00:00",
+  "generated_at": "2026-09-08T05:09:34.963356+00:00",
   "matches": {
     "valorant": [
       {
@@ -162,31 +162,19 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1601270,
-        "league": "LRN",
-        "tournament": "Playoffs",
-        "team_a": "Zeu5 Esports",
-        "team_b": "Fuego",
-        "begin_at": "2026-09-07T23:06:47Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolacelatam",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1589550,
         "league": "LCK Challengers League",
         "tournament": "Playoffs",
         "team_a": "T1 Academy",
         "team_b": "KT Rolster Challengers",
-        "begin_at": "2026-09-08T05:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-08T05:00:49Z",
+        "status": "running",
         "streams": [
+          {
+            "language": "ko",
+            "url": "https://www.twitch.tv/lckchallengersleague",
+            "official": false
+          },
           {
             "language": "ko",
             "url": "https://play-origin.sooplive.com/afchall",
@@ -327,6 +315,28 @@
             "official": true
           }
         ]
+      },
+      {
+        "game": "lol",
+        "id": 1638621,
+        "league": "Circuito Desafiante",
+        "tournament": "Playoffs",
+        "team_a": "Vivo Keyd Stars Academy",
+        "team_b": "KaBuM! Ilha das Lendas",
+        "begin_at": "2026-09-08T20:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://www.twitch.tv/cblol",
+            "official": true
+          },
+          {
+            "language": "pt",
+            "url": "https://www.youtube.com/@CBLOL/live",
+            "official": true
+          }
+        ]
       }
     ],
     "cs2": [
@@ -337,39 +347,12 @@
         "tournament": "Group B",
         "team_a": "Legacy",
         "team_b": "magic",
-        "begin_at": "2026-09-08T03:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/fissure_cs_a",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1654283,
-        "league": "FISSURE PLAYGROUND",
-        "tournament": "Group A",
-        "team_a": "9z",
-        "team_b": "5star",
-        "begin_at": "2026-09-08T03:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-08T03:21:19Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
             "url": "https://kick.com/fissure_cs_a",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
             "official": true
           }
         ]
@@ -381,17 +364,12 @@
         "tournament": "Group A",
         "team_a": "MIBR",
         "team_b": "TheMongolz",
-        "begin_at": "2026-09-08T06:00:00Z",
+        "begin_at": "2026-09-08T05:30:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://kick.com/fissure_cs_a",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
+            "url": "https://kick.com/fissure_cs_b",
             "official": true
           }
         ]
@@ -408,13 +386,8 @@
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
-            "official": true
-          },
-          {
-            "language": "en",
             "url": "https://kick.com/fissure_cs_a",
-            "official": false
+            "official": true
           }
         ]
       },
@@ -482,6 +455,45 @@
           {
             "language": "en",
             "url": "https://kick.com/eplcs_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1673521,
+        "league": "1win",
+        "tournament": "Playoffs",
+        "team_a": "HOTU",
+        "team_b": "Betclic Apogee Esports",
+        "begin_at": "2026-09-08T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/1win_cs",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/1win_cs_ru",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1660048,
+        "league": "FISSURE PLAYGROUND",
+        "tournament": "Group A",
+        "team_a": "BIG",
+        "team_b": "BetBoom Team",
+        "begin_at": "2026-09-08T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/fissure_cs_b",
             "official": true
           }
         ]
