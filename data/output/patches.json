@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T21:14:18.988989+00:00",
+  "generated_at": "2026-09-09T23:20:22.826896+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
       "title": "Counter-Strike 2 Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228676851",
-      "date": "2026-08-24T23:39:20+00:00",
-      "description": "\\Added custom_hud_layout entity:custom_hud_layouts are the entry point for scripted maps to provide custom UI.Panel, Label, Image, and Button panel types are supported.Styling with css is supported.Ev",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262690556",
+      "date": "2026-09-09T22:51:08+00:00",
+      "description": "\\CacheFixed various gaps in map.Fixed a wallbang spot on B site.Added a missing competitive CT spawn point.Added additional T spawn points.\\Reworked CSPlayerCamera:Renamed it to CustomPlayerCamera.Add",
       "image": null
     },
     "lol": {
