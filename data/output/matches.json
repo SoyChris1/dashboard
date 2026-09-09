@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-08T22:59:40.128184+00:00",
+  "generated_at": "2026-09-09T01:12:17.012007+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641332,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "FlyQuest RED",
-        "team_b": "Shopify Rebellion Gold",
-        "begin_at": "2026-09-08T21:13:32Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=7A7x-oCVLNQ",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1641333,
@@ -31,8 +9,8 @@
         "tournament": "Playoffs",
         "team_a": "The Spiders",
         "team_b": "HIMMERS",
-        "begin_at": "2026-09-08T23:30:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-09T00:12:41Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -156,7 +134,7 @@
         "id": 1641334,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "TBD",
+        "team_a": "FlyQuest RED",
         "team_b": "TBD",
         "begin_at": "2026-09-09T21:00:00Z",
         "status": "not_started",
@@ -184,48 +162,31 @@
             "official": true
           }
         ]
+      },
+      {
+        "game": "valorant",
+        "id": 1664697,
+        "league": "China Evolution Series",
+        "tournament": "Playoffs",
+        "team_a": "Nova Esports",
+        "team_b": "FunPlus Phoenix",
+        "begin_at": "2026-09-10T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "zh",
+            "url": "https://live.bilibili.com/22908869",
+            "official": false
+          },
+          {
+            "language": "zh",
+            "url": "https://www.twitch.tv/valorantesports_cn",
+            "official": true
+          }
+        ]
       }
     ],
     "lol": [
-      {
-        "game": "lol",
-        "id": 1638621,
-        "league": "Circuito Desafiante",
-        "tournament": "Playoffs",
-        "team_a": "Vivo Keyd Stars Academy",
-        "team_b": "KaBuM! Ilha das Lendas",
-        "begin_at": "2026-09-08T20:05:30Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/cblol",
-            "official": true
-          },
-          {
-            "language": "pt",
-            "url": "https://www.youtube.com/watch?v=BnBeYOGliLE",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
-        "id": 1595032,
-        "league": "LRS",
-        "tournament": "Playoffs",
-        "team_a": "9z Globant",
-        "team_b": "Golden Lions",
-        "begin_at": "2026-09-08T20:35:37Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolacelatam",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "lol",
         "id": 1589552,
