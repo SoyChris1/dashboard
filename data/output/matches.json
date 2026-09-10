@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:15:07.594778+00:00",
+  "generated_at": "2026-09-10T06:05:17.858427+00:00",
   "matches": {
     "valorant": [
       {
@@ -73,8 +73,8 @@
         "id": 1625736,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "Evil Geniuses GC",
-        "team_b": "MIBR GC",
+        "team_a": "MIBR GC",
+        "team_b": "Evil Geniuses GC",
         "begin_at": "2026-09-10T20:00:00Z",
         "status": "not_started",
         "streams": [
@@ -320,156 +320,22 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1677301,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "paiN",
-        "team_b": "Back to Back ",
-        "begin_at": "2026-09-09T23:11:58Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/breezebrothersmedia",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/tris_mara",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1669721,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "Iowa Stormboar",
-        "team_b": "Overtake Sector",
-        "begin_at": "2026-09-10T01:13:36Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676457,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Liquid",
-        "team_b": "antivalue",
-        "begin_at": "2026-09-10T02:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/leszklaren",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676456,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Chicken Coop Esports",
-        "team_b": "Marsborne",
-        "begin_at": "2026-09-10T02:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/karmaflexxx",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1674260,
         "league": "FISSURE PLAYGROUND",
         "tournament": "Group A",
         "team_a": "9z",
         "team_b": "G2",
-        "begin_at": "2026-09-10T03:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-10T03:14:53Z",
+        "status": "running",
         "streams": [
           {
-            "language": "en",
-            "url": "https://kick.com/fissure_cs_a",
+            "language": "es",
+            "url": "https://kick.com/forg1",
             "official": false
           },
           {
             "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1674246,
-        "league": "FISSURE PLAYGROUND",
-        "tournament": "Group B",
-        "team_a": "Alliance",
-        "team_b": "TYLOO",
-        "begin_at": "2026-09-10T03:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/fissure_cs_a",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676127,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Orgless",
-        "team_b": "Finishers",
-        "begin_at": "2026-09-10T06:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/PGL",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1674259,
-        "league": "FISSURE PLAYGROUND",
-        "tournament": "Group A",
-        "team_a": "Astralis",
-        "team_b": "5star",
-        "begin_at": "2026-09-10T06:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/fissure_cs_a",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
+            "url": "https://kick.com/fissure_cs_b",
             "official": true
           }
         ]
@@ -486,13 +352,30 @@
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/fissure_cs_eng",
+            "url": "https://kick.com/fissure_cs_b",
             "official": true
-          },
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1674259,
+        "league": "FISSURE PLAYGROUND",
+        "tournament": "Group A",
+        "team_a": "Astralis",
+        "team_b": "5star",
+        "begin_at": "2026-09-10T07:00:00Z",
+        "status": "not_started",
+        "streams": [
           {
             "language": "en",
             "url": "https://kick.com/fissure_cs_a",
             "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/fissure_cs_eng",
+            "official": true
           }
         ]
       },
@@ -509,6 +392,101 @@
           {
             "language": "pt",
             "url": "https://kick.com/roman",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681241,
+        "league": "Roman Imperium Cup",
+        "tournament": "Group A",
+        "team_a": "largadosypelados",
+        "team_b": "MTX",
+        "begin_at": "2026-09-10T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/roman",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681240,
+        "league": "Roman Imperium Cup",
+        "tournament": "Group A",
+        "team_a": "TEIKO",
+        "team_b": "Gothboiclique",
+        "begin_at": "2026-09-10T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/roman",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1678022,
+        "league": "Thunderpick World Championship",
+        "tournament": "Group A",
+        "team_a": "Heroic",
+        "team_b": "K27",
+        "begin_at": "2026-09-10T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/thunderpicktv",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/thunderpick",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1678020,
+        "league": "Thunderpick World Championship",
+        "tournament": "Group A",
+        "team_a": "BESTIA",
+        "team_b": "Virtus.pro",
+        "begin_at": "2026-09-10T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/thunderpicktv",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/thunderpick",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1676027,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "Nuclear TigeRES",
+        "team_b": "BET-M 33",
+        "begin_at": "2026-09-10T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/PGL",
             "official": true
           }
         ]
