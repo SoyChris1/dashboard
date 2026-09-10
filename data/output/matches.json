@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-09-09T23:20:22.826896+00:00",
+  "generated_at": "2026-09-10T01:15:07.594778+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641334,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "FlyQuest RED",
-        "team_b": "The Spiders",
-        "begin_at": "2026-09-09T21:15:28Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "valorant",
-        "id": 1625731,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "MIBR GC",
-        "team_b": "Team Liquid Brazil",
-        "begin_at": "2026-09-09T22:27:23Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/valorant_br",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1664697,
@@ -108,7 +74,7 @@
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "Evil Geniuses GC",
-        "team_b": "TBD",
+        "team_b": "MIBR GC",
         "begin_at": "2026-09-10T20:00:00Z",
         "status": "not_started",
         "streams": [
@@ -190,7 +156,7 @@
         "id": 1625732,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "TBD",
+        "team_a": "Team Liquid Brazil",
         "team_b": "TBD",
         "begin_at": "2026-09-11T20:00:00Z",
         "status": "not_started",
@@ -204,28 +170,6 @@
       }
     ],
     "lol": [
-      {
-        "game": "lol",
-        "id": 1636129,
-        "league": "North American Challengers League",
-        "tournament": "Playoffs",
-        "team_a": "Maryville University",
-        "team_b": "NRG Esports",
-        "begin_at": "2026-09-09T21:07:14Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/NACL",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/@NACL/live",
-            "official": false
-          }
-        ]
-      },
       {
         "game": "lol",
         "id": 1589554,
@@ -398,52 +342,13 @@
       },
       {
         "game": "cs2",
-        "id": 1676454,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Voca",
-        "team_b": "Villainous",
-        "begin_at": "2026-09-09T23:15:25Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/bonamant",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676455,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "NRG",
-        "team_b": "Without a Roof",
-        "begin_at": "2026-09-09T23:20:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/karmaflexxx",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/Trottah",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1669721,
         "league": "NSTLGA League",
         "tournament": "Playoffs",
         "team_a": "Iowa Stormboar",
         "team_b": "Overtake Sector",
-        "begin_at": "2026-09-10T01:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-10T01:13:36Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -565,6 +470,45 @@
           {
             "language": "en",
             "url": "https://www.twitch.tv/fissure_cs_eng",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1674245,
+        "league": "FISSURE PLAYGROUND",
+        "tournament": "Group B",
+        "team_a": "PARIVISION",
+        "team_b": "magic",
+        "begin_at": "2026-09-10T06:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/fissure_cs_eng",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/fissure_cs_a",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681242,
+        "league": "Roman Imperium Cup",
+        "tournament": "Group A",
+        "team_a": "maybe",
+        "team_b": "REVENIX",
+        "begin_at": "2026-09-10T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/roman",
             "official": true
           }
         ]
