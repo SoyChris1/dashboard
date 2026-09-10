@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:05:06.511524+00:00",
+  "generated_at": "2026-09-10T23:07:58.344696+00:00",
   "matches": {
     "valorant": [
       {
@@ -80,13 +80,13 @@
         "streams": [
           {
             "language": "de",
-            "url": "https://www.youtube.com/@ChallengersDACH/live",
-            "official": false
+            "url": "https://www.twitch.tv/valorantleague_dach",
+            "official": true
           },
           {
             "language": "de",
-            "url": "https://www.twitch.tv/valorantleague_dach",
-            "official": true
+            "url": "https://www.youtube.com/@ChallengersDACH/live",
+            "official": false
           }
         ]
       },
@@ -199,30 +199,13 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1678046,
-        "league": "LPLOL",
-        "tournament": "Playoffs",
-        "team_a": "Bubliki",
-        "team_b": "Dominion Goblins",
-        "begin_at": "2026-09-10T18:12:13Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenalol",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1636131,
         "league": "North American Challengers League",
         "tournament": "Playoffs",
         "team_a": "Winthrop University",
         "team_b": "Maryville University",
-        "begin_at": "2026-09-10T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-10T21:05:23Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -231,7 +214,7 @@
           },
           {
             "language": "en",
-            "url": "https://www.youtube.com/@NACL/live",
+            "url": "https://www.youtube.com/watch?v=Td9bBIxYYz0",
             "official": false
           }
         ]
@@ -321,13 +304,13 @@
         "streams": [
           {
             "language": "tr",
-            "url": "https://www.youtube.com/@ESAEsportsTV",
-            "official": false
+            "url": "https://www.twitch.tv/riotgamesturkish",
+            "official": true
           },
           {
             "language": "tr",
-            "url": "https://www.twitch.tv/riotgamesturkish",
-            "official": true
+            "url": "https://www.youtube.com/@ESAEsportsTV",
+            "official": false
           }
         ]
       },
@@ -352,43 +335,26 @@
             "official": false
           }
         ]
+      },
+      {
+        "game": "lol",
+        "id": 1642159,
+        "league": "LCK",
+        "tournament": "Playoffs",
+        "team_a": "Hanwha Life Esports",
+        "team_b": "T1",
+        "begin_at": "2026-09-12T05:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/lck",
+            "official": true
+          }
+        ]
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1676098,
-        "league": "CCT Europe",
-        "tournament": "Playoffs",
-        "team_a": "gothboiclique",
-        "team_b": "Quintessence",
-        "begin_at": "2026-09-10T18:43:37Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs6",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1669723,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "Marsborne",
-        "team_b": "Without a Roof",
-        "begin_at": "2026-09-10T20:09:50Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "cs2",
         "id": 1677306,
@@ -418,20 +384,15 @@
         "tournament": "Playoffs",
         "team_a": "SportsBetExpert",
         "team_b": "FarmVille",
-        "begin_at": "2026-09-10T22:30:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1677305,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "paiN",
-        "team_b": "Imperial",
-        "begin_at": "2026-09-10T23:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "begin_at": "2026-09-10T22:39:35Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/nstlga_gg",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -440,12 +401,12 @@
         "tournament": "Playoffs",
         "team_a": "antivalue",
         "team_b": "Chicken Coop Esports",
-        "begin_at": "2026-09-10T23:00:00Z",
+        "begin_at": "2026-09-10T23:15:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/PGL",
+            "url": "https://www.twitch.tv/bonamant",
             "official": true
           }
         ]
@@ -457,12 +418,39 @@
         "tournament": "Playoffs",
         "team_a": "Villainous",
         "team_b": "Without a Roof",
-        "begin_at": "2026-09-10T23:00:00Z",
+        "begin_at": "2026-09-10T23:15:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/PGL",
+            "url": "https://www.twitch.tv/fl0m",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1677305,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "paiN",
+        "team_b": "Imperial",
+        "begin_at": "2026-09-10T23:40:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/gaules",
+            "official": false
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/watchfulTVb",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/vanfantv",
             "official": true
           }
         ]
@@ -531,6 +519,23 @@
             "language": "en",
             "url": "https://kick.com/fissure_cs_a",
             "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1683335,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Play-In Group C",
+        "team_a": "Drama eSports",
+        "team_b": "ReThink",
+        "begin_at": "2026-09-11T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
+            "official": true
           }
         ]
       }
