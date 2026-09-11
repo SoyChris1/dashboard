@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:11:49.484001+00:00",
+  "generated_at": "2026-09-11T23:19:09.620335+00:00",
   "matches": {
     "valorant": [
       {
@@ -9,8 +9,8 @@
         "tournament": "Playoffs",
         "team_a": "Team Liquid Brazil",
         "team_b": "Evil Geniuses GC",
-        "begin_at": "2026-09-11T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-11T21:12:30Z",
+        "status": "running",
         "streams": [
           {
             "language": "pt",
@@ -51,8 +51,8 @@
         "id": 1661592,
         "league": "THE POKAL",
         "tournament": "Playoffs",
-        "team_a": "RIZON",
-        "team_b": "Twisted Saints Esports",
+        "team_a": "Twisted Saints Esports",
+        "team_b": "RIZON",
         "begin_at": "2026-09-12T15:00:00Z",
         "status": "not_started",
         "streams": [
@@ -154,6 +154,23 @@
         "team_a": "Team Liquid",
         "team_b": "Paper Rex",
         "begin_at": "2026-09-24T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "valorant",
+        "id": 1682153,
+        "league": "VCT",
+        "tournament": "Group C",
+        "team_a": "TYLOO",
+        "team_b": "G2 Esports",
+        "begin_at": "2026-09-24T12:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -330,57 +347,13 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1669726,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "LAG Gaming",
-        "team_b": "Without a Roof",
-        "begin_at": "2026-09-11T20:11:54Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1677307,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Imperial",
-        "team_b": "DENDELE CS",
-        "begin_at": "2026-09-11T20:14:39Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/gaules",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/watchfulTVb",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/Trottah",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1669729,
         "league": "NSTLGA League",
         "tournament": "Playoffs",
         "team_a": "FarmVille",
         "team_b": "Overtake Sector",
-        "begin_at": "2026-09-11T22:30:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-11T22:58:18Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -396,20 +369,25 @@
         "tournament": "Playoffs",
         "team_a": "ShindeN",
         "team_b": "Fluxo W7M",
-        "begin_at": "2026-09-11T23:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1676464,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "antivalue",
-        "team_b": "Voca",
-        "begin_at": "2026-09-11T23:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "begin_at": "2026-09-11T23:03:50Z",
+        "status": "running",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/gaules",
+            "official": false
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/watchfulTVb",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/vanfantv",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -418,8 +396,8 @@
         "tournament": "Playoffs",
         "team_a": "Without a Roof",
         "team_b": "Marsborne",
-        "begin_at": "2026-09-11T23:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-11T23:10:17Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -427,6 +405,17 @@
             "official": true
           }
         ]
+      },
+      {
+        "game": "cs2",
+        "id": 1676464,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "antivalue",
+        "team_b": "Voca",
+        "begin_at": "2026-09-11T23:20:00Z",
+        "status": "not_started",
+        "streams": []
       },
       {
         "game": "cs2",
@@ -498,6 +487,57 @@
             "language": "en",
             "url": "https://kick.com/fissure_cs_a",
             "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1685296,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Play-In Group C",
+        "team_a": "ReThink",
+        "team_b": "Misa Esports",
+        "begin_at": "2026-09-12T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1683259,
+        "league": "European Pro League",
+        "tournament": "Group A",
+        "team_a": "Lavked",
+        "team_b": "Drama eSports",
+        "begin_at": "2026-09-12T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1683137,
+        "league": "Exort Fiesta",
+        "tournament": "Group Stage",
+        "team_a": "ex-Zero Tenacity",
+        "team_b": "Fortress",
+        "begin_at": "2026-09-12T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/fiesta_cs",
+            "official": true
           }
         ]
       }
