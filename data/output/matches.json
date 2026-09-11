@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:06:06.488304+00:00",
+  "generated_at": "2026-09-11T05:57:29.590405+00:00",
   "matches": {
     "valorant": [
       {
@@ -177,28 +177,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1636131,
-        "league": "North American Challengers League",
-        "tournament": "Playoffs",
-        "team_a": "Winthrop University",
-        "team_b": "Maryville University",
-        "begin_at": "2026-09-10T21:05:23Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/NACL",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=Td9bBIxYYz0",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1589553,
         "league": "LCK Challengers League",
         "tournament": "Playoffs",
@@ -298,7 +276,7 @@
         "league": "North American Challengers League",
         "tournament": "Playoffs",
         "team_a": "Cupid Esports",
-        "team_b": "TBD",
+        "team_b": "Maryville University",
         "begin_at": "2026-09-11T21:00:00Z",
         "status": "not_started",
         "streams": [
@@ -335,101 +313,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1676462,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "antivalue",
-        "team_b": "Chicken Coop Esports",
-        "begin_at": "2026-09-10T23:20:38Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/bonamant",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1677305,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "paiN",
-        "team_b": "Imperial",
-        "begin_at": "2026-09-10T23:26:38Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/gaules",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/watchfulTVb",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/vanfantv",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1669722,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "LAG Gaming",
-        "team_b": "regain",
-        "begin_at": "2026-09-11T01:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676459,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Voca",
-        "team_b": "NRG",
-        "begin_at": "2026-09-11T02:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/PGL",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1676458,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "Liquid",
-        "team_b": "Marsborne",
-        "begin_at": "2026-09-11T02:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/PGL",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1674229,
         "league": "FISSURE PLAYGROUND",
         "tournament": "Playoffs",
@@ -438,6 +321,11 @@
         "begin_at": "2026-09-11T06:00:00Z",
         "status": "not_started",
         "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/gaules",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/fissure_cs_eng",
@@ -524,6 +412,57 @@
           {
             "language": "en",
             "url": "https://kick.com/cct_cs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1676030,
+        "league": "PGL Masters",
+        "tournament": "Playoffs",
+        "team_a": "B8",
+        "team_b": "Inner Circle Esports",
+        "begin_at": "2026-09-11T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/PGL",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1673399,
+        "league": "United21",
+        "tournament": "Group B",
+        "team_a": "INFURITY Gaming",
+        "team_b": "OldMix",
+        "begin_at": "2026-09-11T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/united21_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1658072,
+        "league": "European Pro League",
+        "tournament": "Play-In",
+        "team_a": "NAVI Junior",
+        "team_b": "Falcons Force",
+        "begin_at": "2026-09-11T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
             "official": true
           }
         ]
