@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-11T23:19:09.620335+00:00",
+  "generated_at": "2026-09-12T01:17:44.344749+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1625732,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Team Liquid Brazil",
-        "team_b": "Evil Geniuses GC",
-        "begin_at": "2026-09-11T21:12:30Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.youtube.com/watch?v=FNvb5J4B9PA",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/valorant_br",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1664702,
@@ -184,28 +162,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1636133,
-        "league": "North American Challengers League",
-        "tournament": "Playoffs",
-        "team_a": "Cupid Esports",
-        "team_b": "Maryville University",
-        "begin_at": "2026-09-11T21:04:13Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/NACL",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=jT6w5rK0W6I",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1642159,
         "league": "LCK",
         "tournament": "Playoffs",
@@ -347,23 +303,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1669729,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "FarmVille",
-        "team_b": "Overtake Sector",
-        "begin_at": "2026-09-11T22:58:18Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1677312,
         "league": "PGL Masters",
         "tournament": "Playoffs",
@@ -408,24 +347,13 @@
       },
       {
         "game": "cs2",
-        "id": 1676464,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "antivalue",
-        "team_b": "Voca",
-        "begin_at": "2026-09-11T23:20:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
         "id": 1669724,
         "league": "NSTLGA League",
         "tournament": "Playoffs",
         "team_a": "SportsBetExpert",
         "team_b": "Iowa Stormboar",
-        "begin_at": "2026-09-12T01:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-12T01:12:42Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -439,7 +367,7 @@
         "id": 1676465,
         "league": "PGL Masters",
         "tournament": "Playoffs",
-        "team_a": "TBD",
+        "team_a": "Voca",
         "team_b": "TBD",
         "begin_at": "2026-09-12T02:00:00Z",
         "status": "not_started",
@@ -537,6 +465,50 @@
           {
             "language": "en",
             "url": "https://kick.com/fiesta_cs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1678039,
+        "league": "Thunderpick World Championship",
+        "tournament": "Playoffs",
+        "team_a": "FOKUS",
+        "team_b": "Virtus.pro",
+        "begin_at": "2026-09-12T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/thunderpicktv",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/thunderpick",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1677990,
+        "league": "CCT Europe",
+        "tournament": "Group C",
+        "team_a": "Noir Verse",
+        "team_b": " Phantom Academy",
+        "begin_at": "2026-09-12T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru3",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs",
             "official": true
           }
         ]
