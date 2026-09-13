@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:00:14.385795+00:00",
+  "generated_at": "2026-09-13T00:54:17.212871+00:00",
   "matches": {
     "valorant": [
       {
@@ -274,84 +274,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1677314,
-        "league": "PGL Masters",
-        "tournament": "Playoffs",
-        "team_a": "DENDELE CS",
-        "team_b": "Fluxo W7M",
-        "begin_at": "2026-09-12T19:13:23Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/gaules",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/watchfulTVb",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/vanfantv",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1687285,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "your end",
-        "team_b": "Santos United",
-        "begin_at": "2026-09-12T21:08:19Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1669735,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "Without a Roof",
-        "team_b": "SportsBetExpert",
-        "begin_at": "2026-09-12T22:24:04Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1669736,
-        "league": "NSTLGA League",
-        "tournament": "Playoffs",
-        "team_a": "LAG Gaming",
-        "team_b": "Iowa Stormboar",
-        "begin_at": "2026-09-12T22:29:58Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/nstlga_gg_b",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1676467,
         "league": "PGL Masters",
         "tournament": "Playoffs",
@@ -384,8 +306,8 @@
         "tournament": "Playoffs",
         "team_a": "MIBR fe",
         "team_b": "Rush",
-        "begin_at": "2026-09-12T23:45:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-13T00:27:54Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -497,6 +419,28 @@
           {
             "language": "en",
             "url": "https://kick.com/fiesta_cs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1678044,
+        "league": "Thunderpick World Championship",
+        "tournament": "Playoffs",
+        "team_a": "BBL",
+        "team_b": "HOTU",
+        "begin_at": "2026-09-13T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/thunderpicktv",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/thunderpick",
             "official": true
           }
         ]
