@@ -1,24 +1,7 @@
 {
-  "generated_at": "2026-09-15T01:49:49.157366+00:00",
+  "generated_at": "2026-09-15T06:59:57.276443+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1686004,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Team Falcons VEGA",
-        "team_b": "swaglord9000",
-        "begin_at": "2026-09-15T05:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_pacific",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1686005,
@@ -112,7 +95,7 @@
         "id": 1686007,
         "league": "VCT",
         "tournament": "Playoffs",
-        "team_a": "TBD",
+        "team_a": "Team Falcons VEGA",
         "team_b": "TBD",
         "begin_at": "2026-09-16T05:00:00Z",
         "status": "not_started",
@@ -164,6 +147,23 @@
           {
             "language": "zh",
             "url": "https://www.twitch.tv/valorantesports_cn",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "valorant",
+        "id": 1686010,
+        "league": "VCT",
+        "tournament": "Playoffs",
+        "team_a": "swaglord9000",
+        "team_b": "TBD",
+        "begin_at": "2026-09-16T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/valorant_pacific",
             "official": true
           }
         ]
@@ -323,40 +323,6 @@
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1690005,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "underw0rld",
-        "team_b": "QUINTESSÊNCIA",
-        "begin_at": "2026-09-14T23:49:05Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690006,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "BESTIA Academy",
-        "team_b": "your end",
-        "begin_at": "2026-09-14T23:53:23Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "cs2",
         "id": 1684138,
