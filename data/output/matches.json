@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T23:27:14.759471+00:00",
+  "generated_at": "2026-09-15T01:49:49.157366+00:00",
   "matches": {
     "valorant": [
       {
@@ -325,17 +325,17 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1686078,
-        "league": "CIS LAN Championship",
-        "tournament": "Group C",
-        "team_a": "Young27",
-        "team_b": "WW Team",
-        "begin_at": "2026-09-14T22:07:06Z",
+        "id": 1690005,
+        "league": "CCT South America",
+        "tournament": "Playoffs",
+        "team_a": "underw0rld",
+        "team_b": "QUINTESSÊNCIA",
+        "begin_at": "2026-09-14T23:49:05Z",
         "status": "running",
         "streams": [
           {
-            "language": "ru",
-            "url": "https://www.twitch.tv/mpkbk",
+            "language": "en",
+            "url": "https://kick.com/cct_cs3",
             "official": true
           }
         ]
@@ -347,29 +347,12 @@
         "tournament": "Playoffs",
         "team_a": "BESTIA Academy",
         "team_b": "your end",
-        "begin_at": "2026-09-14T23:45:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-14T23:53:23Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
             "url": "https://kick.com/cct_cs5",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690005,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "underw0rld",
-        "team_b": "QUINTESSÊNCIA",
-        "begin_at": "2026-09-14T23:45:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
             "official": true
           }
         ]
@@ -464,14 +447,48 @@
         "id": 1686090,
         "league": "CIS LAN Championship",
         "tournament": "Playoffs",
-        "team_a": "TBD",
-        "team_b": "TBD",
+        "team_a": "BakS eSports",
+        "team_b": "CYBERSHOKE Esports",
         "begin_at": "2026-09-15T10:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "ru",
             "url": "https://www.twitch.tv/mpkbk",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1683281,
+        "league": "European Pro League",
+        "tournament": "Group D",
+        "team_a": "Entropy",
+        "team_b": "Vexar",
+        "begin_at": "2026-09-15T10:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1673411,
+        "league": "United21",
+        "tournament": "Group D",
+        "team_a": " Gatorian",
+        "team_b": "Eternal Fire Academy",
+        "begin_at": "2026-09-15T10:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/united21_en",
             "official": true
           }
         ]
