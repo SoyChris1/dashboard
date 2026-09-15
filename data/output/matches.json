@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T20:18:31.081670+00:00",
+  "generated_at": "2026-09-15T22:59:17.483332+00:00",
   "matches": {
     "valorant": [
       {
@@ -325,79 +325,18 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1686091,
-        "league": "CIS LAN Championship",
-        "tournament": "Playoffs",
-        "team_a": "Nemiga",
-        "team_b": "BET-M 33",
-        "begin_at": "2026-09-15T18:52:18Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/mpkbk",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1692871,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Group B",
-        "team_a": "BESTIA Academy",
-        "team_b": "Signatus",
-        "begin_at": "2026-09-15T20:18:12Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/gamersclubcs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690012,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "Peak Agency",
-        "team_b": "Tropa do felipudo",
-        "begin_at": "2026-09-15T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1690011,
         "league": "CCT South America",
         "tournament": "Playoffs",
         "team_a": "MIBR fe",
         "team_b": "HOLANDA 78",
-        "begin_at": "2026-09-15T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-15T21:06:06Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
             "url": "https://kick.com/cct_cs3",
             "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
-            "official": false
           }
         ]
       },
@@ -442,6 +381,23 @@
             "language": "en",
             "url": "https://kick.com/cct_cs5",
             "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1692975,
+        "league": "United21",
+        "tournament": "Playoffs",
+        "team_a": "Inner Circle Prospect",
+        "team_b": "Eternal Fire Academy",
+        "begin_at": "2026-09-16T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/united21_en",
+            "official": true
           }
         ]
       },
@@ -509,6 +465,23 @@
           {
             "language": "en",
             "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1686094,
+        "league": "CIS LAN Championship",
+        "tournament": "Playoffs",
+        "team_a": "CYBERSHOKE Esports",
+        "team_b": "Nemiga",
+        "begin_at": "2026-09-16T10:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/mpkbk",
             "official": true
           }
         ]
