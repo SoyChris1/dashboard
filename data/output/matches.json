@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:43:03.221798+00:00",
+  "generated_at": "2026-09-17T05:30:52.184123+00:00",
   "matches": {
     "valorant": [
       {
@@ -335,23 +335,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1693758,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "BESTIA Academy",
-        "team_b": "HOLANDA 78",
-        "begin_at": "2026-09-16T23:52:57Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1693759,
         "league": "CCT South America",
         "tournament": "Playoffs",
@@ -369,30 +352,13 @@
       },
       {
         "game": "cs2",
-        "id": 1690457,
-        "league": "Circuit X",
-        "tournament": "Group B",
-        "team_a": "Imperial",
-        "team_b": "Bounty Hunters Esports",
-        "begin_at": "2026-09-17T00:40:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/circuitxofficial",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1690458,
         "league": "Circuit X",
         "tournament": "Group B",
         "team_a": "Yawara Esports",
-        "team_b": "TBD",
-        "begin_at": "2026-09-17T02:30:00Z",
-        "status": "not_started",
+        "team_b": "Bounty Hunters Esports",
+        "begin_at": "2026-09-17T03:58:38Z",
+        "status": "running",
         "streams": [
           {
             "language": "pt",
@@ -499,6 +465,45 @@
         "team_a": "B8",
         "team_b": "Metizport",
         "begin_at": "2026-09-17T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/connect_en",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/connect_en2",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681107,
+        "league": "CCT Europe",
+        "tournament": "Group Stage",
+        "team_a": "Azuolas",
+        "team_b": "Bushido Wildcats",
+        "begin_at": "2026-09-17T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681374,
+        "league": "Logitech G Play Connect",
+        "tournament": "Group A",
+        "team_a": "NIP",
+        "team_b": "M80",
+        "begin_at": "2026-09-17T09:00:00Z",
         "status": "not_started",
         "streams": [
           {
