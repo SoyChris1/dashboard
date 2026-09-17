@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:19:16.854439+00:00",
+  "generated_at": "2026-09-17T00:43:03.221798+00:00",
   "matches": {
     "valorant": [
       {
@@ -335,78 +335,17 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1690430,
-        "league": "Circuit X",
-        "tournament": "Group A",
-        "team_a": "ALKA GAMING",
-        "team_b": "Turma do Pagode",
-        "begin_at": "2026-09-16T21:00:47Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/narodcast2",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/flubytv",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1693756,
+        "id": 1693758,
         "league": "CCT South America",
         "tournament": "Playoffs",
-        "team_a": "MEIA NOITE",
-        "team_b": "Los Niños",
-        "begin_at": "2026-09-16T21:07:14Z",
+        "team_a": "BESTIA Academy",
+        "team_b": "HOLANDA 78",
+        "begin_at": "2026-09-16T23:52:57Z",
         "status": "running",
         "streams": [
           {
             "language": "en",
             "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690437,
-        "league": "Circuit X",
-        "tournament": "Group B",
-        "team_a": "Bounty Hunters Esports",
-        "team_b": "Yawara Esports",
-        "begin_at": "2026-09-16T21:34:46Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/dutchboycasts",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/circuitxofficial",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1692879,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Group C",
-        "team_a": "underw0rld",
-        "team_b": "???",
-        "begin_at": "2026-09-16T23:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/gamersclubcs",
             "official": true
           }
         ]
@@ -418,8 +357,8 @@
         "tournament": "Playoffs",
         "team_a": "QUINTESSÊNCIA",
         "team_b": "Peak Agency",
-        "begin_at": "2026-09-16T23:45:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-17T00:07:44Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -430,29 +369,12 @@
       },
       {
         "game": "cs2",
-        "id": 1693758,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "BESTIA Academy",
-        "team_b": "HOLANDA 78",
-        "begin_at": "2026-09-16T23:45:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1690457,
         "league": "Circuit X",
         "tournament": "Group B",
         "team_a": "Imperial",
-        "team_b": "TBD",
-        "begin_at": "2026-09-17T00:00:00Z",
+        "team_b": "Bounty Hunters Esports",
+        "begin_at": "2026-09-17T00:40:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -467,7 +389,7 @@
         "id": 1690458,
         "league": "Circuit X",
         "tournament": "Group B",
-        "team_a": "TBD",
+        "team_a": "Yawara Esports",
         "team_b": "TBD",
         "begin_at": "2026-09-17T02:30:00Z",
         "status": "not_started",
@@ -532,6 +454,62 @@
             "language": "pt",
             "url": "https://www.twitch.tv/rtparenacs",
             "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1684146,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Group Stage",
+        "team_a": "Brute",
+        "team_b": "QUAZAR",
+        "begin_at": "2026-09-17T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1683266,
+        "league": "European Pro League",
+        "tournament": "Group B",
+        "team_a": "G2 Ares",
+        "team_b": "Misa Esports",
+        "begin_at": "2026-09-17T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681372,
+        "league": "Logitech G Play Connect",
+        "tournament": "Group A",
+        "team_a": "B8",
+        "team_b": "Metizport",
+        "begin_at": "2026-09-17T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/connect_en",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/connect_en2",
+            "official": false
           }
         ]
       }
