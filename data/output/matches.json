@@ -1,29 +1,7 @@
 {
-  "generated_at": "2026-09-18T00:19:09.616570+00:00",
+  "generated_at": "2026-09-18T04:56:14.766610+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1641335,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Shopify Rebellion Gold",
-        "team_b": "FlyQuest RED",
-        "begin_at": "2026-09-17T21:13:06Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=OGAw2Hv21aA",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_americas",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1686008,
@@ -350,90 +328,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1690801,
-        "league": "Circuit X",
-        "tournament": "Group D",
-        "team_a": "BESTIA",
-        "team_b": "Galorys",
-        "begin_at": "2026-09-17T23:38:54Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://kick.com/locomas",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690882,
-        "league": "Circuit X",
-        "tournament": "Group D",
-        "team_a": "CLANSBR",
-        "team_b": "Elementals",
-        "begin_at": "2026-09-17T23:39:38Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1693754,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "Rush",
-        "team_b": "Semente do Mal",
-        "begin_at": "2026-09-17T23:57:09Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1693753,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "underw0rld",
-        "team_b": "your end",
-        "begin_at": "2026-09-17T23:59:07Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690883,
-        "league": "Circuit X",
-        "tournament": "Group D",
-        "team_a": "TBD",
-        "team_b": "TBD",
-        "begin_at": "2026-09-18T02:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/circuitxofficial",
-            "official": true
-          },
-          {
-            "language": "pt",
-            "url": "https://kick.com/circuitx",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1695720,
         "league": "United21",
         "tournament": "Playoffs",
@@ -558,6 +452,28 @@
             "language": "en",
             "url": "https://kick.com/eplcs_en",
             "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681387,
+        "league": "Logitech G Play Connect",
+        "tournament": "Group B",
+        "team_a": "Inner Circle Esports",
+        "team_b": "BBL",
+        "begin_at": "2026-09-18T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/connect_en",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/connect_en2",
+            "official": false
           }
         ]
       }
