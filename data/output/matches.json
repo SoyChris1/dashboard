@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:16:05.538940+00:00",
+  "generated_at": "2026-09-19T00:25:22.702689+00:00",
   "matches": {
     "valorant": [
       {
@@ -162,38 +162,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1662456,
-        "league": "LCS",
-        "tournament": "Playoffs",
-        "team_a": "Shopify Rebellion",
-        "team_b": "Sentinels",
-        "begin_at": "2026-09-18T20:06:30Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolesportsla",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lcs",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=ZS7b_zmFFXc",
-            "official": false
-          },
-          {
-            "language": "ko",
-            "url": "https://play.sooplive.co.kr/leclcs",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1652748,
         "league": "LPL",
         "tournament": "Playoffs",
@@ -340,50 +308,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1686122,
-        "league": "Circuito Retake",
-        "tournament": "Group D",
-        "team_a": "Esport BERG",
-        "team_b": "FC Famalicão Esports",
-        "begin_at": "2026-09-18T20:42:48Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenacsplus",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenacs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1686117,
-        "league": "Circuito Retake",
-        "tournament": "Group C",
-        "team_a": "SAW Youngsters",
-        "team_b": "REVENIX",
-        "begin_at": "2026-09-18T21:15:28Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenacsplus",
-            "official": false
-          },
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/rtparenacs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1690932,
         "league": "Circuit X",
         "tournament": "Playoffs",
@@ -416,8 +340,8 @@
         "tournament": "Playoffs",
         "team_a": "Semente do Mal",
         "team_b": "QUINTESSÊNCIA",
-        "begin_at": "2026-09-18T23:45:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-18T23:48:10Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -433,7 +357,7 @@
         "tournament": "Playoffs",
         "team_a": "Imperial",
         "team_b": "BESTIA",
-        "begin_at": "2026-09-19T00:00:00Z",
+        "begin_at": "2026-09-19T01:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -551,6 +475,23 @@
           {
             "language": "en",
             "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1686123,
+        "league": "Circuito Retake",
+        "tournament": "Playoffs",
+        "team_a": "WBT",
+        "team_b": "Rebels Gaming",
+        "begin_at": "2026-09-19T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "pt",
+            "url": "https://www.twitch.tv/rtparenacs",
             "official": true
           }
         ]
