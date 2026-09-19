@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:20:06.560055+00:00",
+  "generated_at": "2026-09-19T23:17:08.876319+00:00",
   "matches": {
     "valorant": [
       {
@@ -385,8 +385,8 @@
         "id": 1695722,
         "league": "United21",
         "tournament": "Playoffs",
-        "team_a": "OldMix",
-        "team_b": "Prestige",
+        "team_a": "Prestige",
+        "team_b": "OldMix",
         "begin_at": "2026-09-20T08:00:00Z",
         "status": "not_started",
         "streams": [
