@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:25:22.702689+00:00",
+  "generated_at": "2026-09-19T04:55:22.520521+00:00",
   "matches": {
     "valorant": [
       {
@@ -308,67 +308,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1690932,
-        "league": "Circuit X",
-        "tournament": "Playoffs",
-        "team_a": "ShindeN",
-        "team_b": "Turma do Pagode",
-        "begin_at": "2026-09-18T22:02:52Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/circuitxofficial",
-            "official": false
-          },
-          {
-            "language": "es",
-            "url": "https://kick.com/forg1",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/dutchboycasts",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1693763,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "Semente do Mal",
-        "team_b": "QUINTESSÊNCIA",
-        "begin_at": "2026-09-18T23:48:10Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1690933,
-        "league": "Circuit X",
-        "tournament": "Playoffs",
-        "team_a": "Imperial",
-        "team_b": "BESTIA",
-        "begin_at": "2026-09-19T01:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/circuitxofficial",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1695717,
         "league": "United21",
         "tournament": "Playoffs",
@@ -492,6 +431,23 @@
           {
             "language": "pt",
             "url": "https://www.twitch.tv/rtparenacs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1685171,
+        "league": "StarLadder StarSeries",
+        "tournament": "Playoffs",
+        "team_a": "MIBR",
+        "team_b": "NRG",
+        "begin_at": "2026-09-19T10:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/starladder",
             "official": true
           }
         ]
