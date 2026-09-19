@@ -1,73 +1,14 @@
 {
-  "generated_at": "2026-09-19T09:19:45.653137+00:00",
+  "generated_at": "2026-09-19T13:15:18.920881+00:00",
   "matches": {
     "valorant": [
-      {
-        "game": "valorant",
-        "id": 1686014,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Team Falcons VEGA",
-        "team_b": "Gen.G GC",
-        "begin_at": "2026-09-19T07:13:59Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=-AKxN7RcUtM",
-            "official": false
-          },
-          {
-            "language": "id",
-            "url": "https://www.twitch.tv/valorant_id",
-            "official": false
-          },
-          {
-            "language": "ja",
-            "url": "https://www.twitch.tv/valorant_jpn",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/valorant_pacific",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "valorant",
-        "id": 1689162,
-        "league": "VCT",
-        "tournament": "Playoffs",
-        "team_a": "Yew Reign Gaming",
-        "team_b": "Nova Esports GC",
-        "begin_at": "2026-09-19T09:04:45Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "zh",
-            "url": "https://www.twitch.tv/valorantesports_cn",
-            "official": true
-          },
-          {
-            "language": "zh",
-            "url": "https://www.douyu.com/11688843",
-            "official": false
-          },
-          {
-            "language": "zh",
-            "url": "https://www.youtube.com/watch?v=UaYoJzrYg8s",
-            "official": false
-          }
-        ]
-      },
       {
         "game": "valorant",
         "id": 1686015,
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "FENNEL Female",
-        "team_b": "TBD",
+        "team_b": "Gen.G GC",
         "begin_at": "2026-09-20T07:00:00Z",
         "status": "not_started",
         "streams": [
@@ -84,7 +25,7 @@
         "league": "VCT",
         "tournament": "Playoffs",
         "team_a": "Havoc & Yonder GC",
-        "team_b": "TBD",
+        "team_b": "Nova Esports GC",
         "begin_at": "2026-09-20T09:00:00Z",
         "status": "not_started",
         "streams": [
@@ -211,79 +152,13 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1615356,
-        "league": "VCS",
-        "tournament": "Regular Season",
-        "team_a": "MVK Academy",
-        "team_b": "1TAP Dino",
-        "begin_at": "2026-09-19T09:01:44Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "vi",
-            "url": "https://www.youtube.com/watch?v=KsXZgNEqB_U",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
-        "id": 1652748,
-        "league": "LPL",
-        "tournament": "Playoffs",
-        "team_a": "Invictus Gaming",
-        "team_b": "JD Gaming",
-        "begin_at": "2026-09-19T09:06:52Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=En8sHDamVUY",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lplenglish",
-            "official": true
-          },
-          {
-            "language": "zh",
-            "url": "https://live.bilibili.com/7734200",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
-        "id": 1618202,
-        "league": "Rift Legends",
-        "tournament": "Playoffs",
-        "team_a": "Forsaken",
-        "team_b": "BOMBA Team",
-        "begin_at": "2026-09-19T10:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pl",
-            "url": "https://www.youtube.com/watch?v=aeuD0mbfbXk",
-            "official": false
-          },
-          {
-            "language": "pl",
-            "url": "https://www.twitch.tv/nervarien",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1615357,
         "league": "VCS",
         "tournament": "Regular Season",
         "team_a": "9Gaming",
         "team_b": "SN CyberCore Esports",
-        "begin_at": "2026-09-19T12:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-19T12:09:08Z",
+        "status": "running",
         "streams": [
           {
             "language": "vi",
@@ -408,17 +283,51 @@
             "official": true
           }
         ]
+      },
+      {
+        "game": "lol",
+        "id": 1697598,
+        "league": "World Star Challengers Invitational",
+        "tournament": "Group B",
+        "team_a": "KT Rolster Challengers",
+        "team_b": "Bilibili Gaming Junior",
+        "begin_at": "2026-09-20T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/riotgames",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "lol",
+        "id": 1697599,
+        "league": "World Star Challengers Invitational",
+        "tournament": "Group B",
+        "team_a": "⁠Movistar KOI Fénix",
+        "team_b": "CTBC Flying Oyster Academy",
+        "begin_at": "2026-09-20T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/riotgames",
+            "official": true
+          }
+        ]
       }
     ],
     "cs2": [
       {
         "game": "cs2",
-        "id": 1681115,
+        "id": 1681116,
         "league": "CCT Europe",
         "tournament": "Group Stage",
-        "team_a": "Nexus",
-        "team_b": "Permitta Esports",
-        "begin_at": "2026-09-19T08:11:42Z",
+        "team_a": "Honvéd",
+        "team_b": "Bushido Wildcats",
+        "begin_at": "2026-09-19T11:07:36Z",
         "status": "running",
         "streams": [
           {
@@ -435,51 +344,12 @@
       },
       {
         "game": "cs2",
-        "id": 1695040,
-        "league": "GLuck Yungstar",
-        "tournament": "Group B",
-        "team_a": "Black Phoenix",
-        "team_b": "JUMBO TEAM",
-        "begin_at": "2026-09-19T08:12:58Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/gluck_esports_2",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1684154,
-        "league": "NODWIN Clutch Series",
-        "tournament": "Group Stage",
-        "team_a": "WRAITH PCIFIC",
-        "team_b": "ex-RUSTEC",
-        "begin_at": "2026-09-19T08:14:44Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/scoresight",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/nodwin_cs2",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1695035,
+        "id": 1695036,
         "league": "GLuck Yungstar",
         "tournament": "Group A",
-        "team_a": "QUAZAR",
-        "team_b": "Young TigeRES",
-        "begin_at": "2026-09-19T08:16:11Z",
+        "team_a": "2miracll",
+        "team_b": "boriing",
+        "begin_at": "2026-09-19T11:16:43Z",
         "status": "running",
         "streams": [
           {
@@ -491,27 +361,84 @@
       },
       {
         "game": "cs2",
-        "id": 1686123,
-        "league": "Circuito Retake",
+        "id": 1685170,
+        "league": "StarLadder StarSeries",
         "tournament": "Playoffs",
-        "team_a": "WBT",
-        "team_b": "Rebels Gaming",
-        "begin_at": "2026-09-19T09:08:42Z",
+        "team_a": "MOUZ",
+        "team_b": "FURIA",
+        "begin_at": "2026-09-19T12:01:18Z",
         "status": "running",
         "streams": [
           {
-            "language": "uk",
-            "url": "https://www.twitch.tv/wbtgg",
+            "language": "cs",
+            "url": "https://www.youtube.com/watch?v=DEtCGuIXPH8",
+            "official": false
+          },
+          {
+            "language": "mn",
+            "url": "https://www.youtube.com/watch?v=C74_sr3WM18",
+            "official": false
+          },
+          {
+            "language": "fi",
+            "url": "https://www.twitch.tv/pelaajatcom",
+            "official": false
+          },
+          {
+            "language": "pl",
+            "url": "https://www.twitch.tv/mrdzinold",
             "official": false
           },
           {
             "language": "es",
-            "url": "https://www.twitch.tv/Gaill1nh0",
+            "url": "https://kick.com/elmorocho7",
+            "official": false
+          },
+          {
+            "language": "de",
+            "url": "https://www.twitch.tv/redcs",
+            "official": false
+          },
+          {
+            "language": "hu",
+            "url": "https://www.twitch.tv/benccce",
+            "official": false
+          },
+          {
+            "language": "uk",
+            "url": "https://www.twitch.tv/CS2_maincast",
+            "official": false
+          },
+          {
+            "language": "fr",
+            "url": "https://www.twitch.tv/croissantstrike",
+            "official": false
+          },
+          {
+            "language": "pt",
+            "url": "https://kick.com/gaules",
             "official": false
           },
           {
             "language": "en",
-            "url": "https://kick.com/dutchboycasts",
+            "url": "https://kick.com/starladder",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1686124,
+        "league": "Circuito Retake",
+        "tournament": "Playoffs",
+        "team_a": "largadosypelados",
+        "team_b": "SAW Youngsters",
+        "begin_at": "2026-09-19T13:10:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/7trusty7",
             "official": false
           },
           {
@@ -523,85 +450,12 @@
       },
       {
         "game": "cs2",
-        "id": 1685171,
-        "league": "StarLadder StarSeries",
-        "tournament": "Playoffs",
-        "team_a": "MIBR",
-        "team_b": "NRG",
-        "begin_at": "2026-09-19T10:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/starladder",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1695718,
-        "league": "United21",
-        "tournament": "Playoffs",
-        "team_a": "Prestige",
-        "team_b": "Teletubisie",
-        "begin_at": "2026-09-19T10:30:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/united21_en",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1683283,
-        "league": "European Pro League",
+        "id": 1695052,
+        "league": "GLuck Yungstar",
         "tournament": "Group D",
-        "team_a": "Nexus",
-        "team_b": "Entropy",
-        "begin_at": "2026-09-19T10:30:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/eplcs_en",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1695041,
-        "league": "GLuck Yungstar",
-        "tournament": "Group B",
-        "team_a": "SPARX",
-        "team_b": "mskLANERS",
-        "begin_at": "2026-09-19T11:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/gluck_esports",
-            "official": true
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/gluck_esports_2",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1695036,
-        "league": "GLuck Yungstar",
-        "tournament": "Group A",
-        "team_a": "2miracll",
-        "team_b": "boriing",
-        "begin_at": "2026-09-19T11:00:00Z",
+        "team_a": "VP.Future",
+        "team_b": "X-CITY",
+        "begin_at": "2026-09-19T14:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -618,12 +472,34 @@
       },
       {
         "game": "cs2",
-        "id": 1684155,
+        "id": 1695045,
+        "league": "GLuck Yungstar",
+        "tournament": "Group C",
+        "team_a": "Young27",
+        "team_b": "d06eg",
+        "begin_at": "2026-09-19T14:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/gluck_esports",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/gluck_esports_2",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1684156,
         "league": "NODWIN Clutch Series",
         "tournament": "Group Stage",
-        "team_a": "QUAZAR",
-        "team_b": "Drama eSports",
-        "begin_at": "2026-09-19T11:00:00Z",
+        "team_a": "Just Players",
+        "team_b": "Leo Team",
+        "begin_at": "2026-09-19T14:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -640,12 +516,12 @@
       },
       {
         "game": "cs2",
-        "id": 1683177,
+        "id": 1683178,
         "league": "Exort Fiesta",
         "tournament": "Group Stage",
-        "team_a": "ENCE",
-        "team_b": "ILLYRIANS",
-        "begin_at": "2026-09-19T11:00:00Z",
+        "team_a": "ex-Zero Tenacity",
+        "team_b": "WRAITH PCIFIC",
+        "begin_at": "2026-09-19T14:00:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -657,17 +533,76 @@
       },
       {
         "game": "cs2",
-        "id": 1681404,
+        "id": 1681405,
         "league": "Logitech G Play Connect",
         "tournament": "Playoffs",
-        "team_a": "Luminosity",
-        "team_b": "BBL",
-        "begin_at": "2026-09-19T11:00:00Z",
+        "team_a": "3DMAX",
+        "team_b": "M80",
+        "begin_at": "2026-09-19T14:00:00Z",
         "status": "not_started",
         "streams": [
           {
+            "language": "de",
+            "url": "https://www.twitch.tv/albi1985",
+            "official": false
+          },
+          {
+            "language": "pl",
+            "url": "https://www.twitch.tv/izakooo",
+            "official": false
+          },
+          {
+            "language": "fr",
+            "url": "https://www.youtube.com/watch?v=q78AUpWM3cw",
+            "official": false
+          },
+          {
             "language": "en",
             "url": "https://kick.com/connect_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681117,
+        "league": "CCT Europe",
+        "tournament": "Group Stage",
+        "team_a": "Leo Team",
+        "team_b": "NAVI Junior",
+        "begin_at": "2026-09-19T14:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru3",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1686125,
+        "league": "Circuito Retake",
+        "tournament": "Playoffs",
+        "team_a": "Eternal Fire",
+        "team_b": "Nice Try",
+        "begin_at": "2026-09-19T15:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/7trusty7",
+            "official": false
+          },
+          {
+            "language": "pt",
+            "url": "https://www.twitch.tv/rtparenacs",
             "official": true
           }
         ]
