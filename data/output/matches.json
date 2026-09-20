@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:51:59.378330+00:00",
+  "generated_at": "2026-09-20T22:58:06.907182+00:00",
   "matches": {
     "valorant": [
       {
@@ -142,38 +142,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1662458,
-        "league": "LCS",
-        "tournament": "Playoffs",
-        "team_a": "Team Liquid",
-        "team_b": "FlyQuest",
-        "begin_at": "2026-09-20T20:04:59Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.youtube.com/watch?v=w-AzBpQbDgA",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lcs",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/@LCS/live",
-            "official": false
-          },
-          {
-            "language": "ko",
-            "url": "https://play.sooplive.co.kr/leclcs",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1697604,
         "league": "World Star Challengers Invitational",
         "tournament": "Group C",
@@ -312,35 +280,13 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1693765,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "Rush",
-        "team_b": "QUINTESSÊNCIA",
-        "begin_at": "2026-09-20T21:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/celocoach",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1690937,
         "league": "Circuit X",
         "tournament": "Playoffs",
         "team_a": "Bounty Hunters Esports",
         "team_b": "BESTIA",
-        "begin_at": "2026-09-20T21:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-20T21:09:57Z",
+        "status": "running",
         "streams": [
           {
             "language": "ru",
@@ -360,18 +306,23 @@
         "league": "CCT South America",
         "tournament": "Playoffs",
         "team_a": "your end",
-        "team_b": "TBD",
+        "team_b": "QUINTESSÊNCIA",
         "begin_at": "2026-09-20T23:45:00Z",
         "status": "not_started",
         "streams": [
+          {
+            "language": "pt",
+            "url": "https://kick.com/celocoach",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://kick.com/cct_cs3",
             "official": true
           },
           {
-            "language": "en",
-            "url": "https://kick.com/cct_cs5",
+            "language": "ru",
+            "url": "https://www.twitch.tv/georgcast",
             "official": false
           }
         ]
@@ -398,8 +349,8 @@
         "id": 1684162,
         "league": "NODWIN Clutch Series",
         "tournament": "Group Stage",
-        "team_a": "TBD",
-        "team_b": "TBD",
+        "team_a": "Brute",
+        "team_b": "SPARTA",
         "begin_at": "2026-09-21T08:00:00Z",
         "status": "not_started",
         "streams": [
@@ -415,8 +366,8 @@
         "id": 1683263,
         "league": "European Pro League",
         "tournament": "Group A",
-        "team_a": "Saint Sinners",
-        "team_b": "Drama eSports",
+        "team_a": "Drama eSports",
+        "team_b": "Saint Sinners",
         "begin_at": "2026-09-21T08:00:00Z",
         "status": "not_started",
         "streams": [
@@ -462,6 +413,45 @@
           {
             "language": "en",
             "url": "https://kick.com/stake_pulse",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1684007,
+        "league": "Stake Pulse",
+        "tournament": "Group A",
+        "team_a": "Astralis",
+        "team_b": "Sangal",
+        "begin_at": "2026-09-21T10:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/stake_cs2",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/stake_pulse",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1695724,
+        "league": "United21",
+        "tournament": "Playoffs",
+        "team_a": "OldMix",
+        "team_b": "Inner Circle Prospect",
+        "begin_at": "2026-09-21T10:30:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/united21_en",
             "official": true
           }
         ]
