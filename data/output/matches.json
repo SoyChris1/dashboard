@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:00:42.308904+00:00",
+  "generated_at": "2026-09-21T06:13:48.406613+00:00",
   "matches": {
     "valorant": [
       {
@@ -147,8 +147,8 @@
         "tournament": "Group C",
         "team_a": "Vivo Keyd Stars Academy",
         "team_b": "Dplus KIA Challengers",
-        "begin_at": "2026-09-21T06:00:00Z",
-        "status": "not_started",
+        "begin_at": "2026-09-21T06:05:07Z",
+        "status": "running",
         "streams": [
           {
             "language": "en",
@@ -275,36 +275,20 @@
             "official": true
           }
         ]
+      },
+      {
+        "game": "lol",
+        "id": 1702650,
+        "league": "EMEA Masters",
+        "tournament": "Group D",
+        "team_a": "Barça eSports",
+        "team_b": "Bubliki",
+        "begin_at": "2026-09-21T15:00:00Z",
+        "status": "not_started",
+        "streams": []
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1693766,
-        "league": "CCT South America",
-        "tournament": "Playoffs",
-        "team_a": "your end",
-        "team_b": "QUINTESSÊNCIA",
-        "begin_at": "2026-09-20T23:54:39Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/celocoach",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/georgcast",
-            "official": false
-          }
-        ]
-      },
       {
         "game": "cs2",
         "id": 1695719,
