@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:58:06.907182+00:00",
+  "generated_at": "2026-09-21T01:00:42.308904+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
@@ -11,11 +11,9 @@
     },
     "lol": {
       "game": "lol",
-      "title": "League of Legends Patch 26.18 Notes",
-      "url": "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-18-notes",
-      "date": null,
-      "description": "Everything is where it belongs: Caps is in the Hall of Legends, Demacians are back in Classic, and ARAM Mayhem augments are on the right champions!",
-      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/edec00cb9c1e10eb5adace738fea068ded8361ac-1920x1117.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
+      "title": null,
+      "url": null,
+      "date": null
     },
     "valorant": {
       "game": "valorant",
