@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:25:42.116795+00:00",
+  "generated_at": "2026-09-22T15:38:22.748647+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
@@ -19,11 +19,11 @@
     },
     "valorant": {
       "game": "valorant",
-      "title": null,
-      "url": null,
+      "title": "VALORANT Patch Notes 13.06",
+      "url": "https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-13-06",
       "date": null,
-      "description": null,
-      "image": null
+      "description": "VALORANT’s big update is here.",
+      "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/97e10ab8b5054afaa22f2361ab1b0fd8f50d0020-1920x1080.jpg?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center"
     }
   }
 }
