@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T22:14:52.955142+00:00",
+  "generated_at": "2026-09-22T00:54:34.259863+00:00",
   "matches": {
     "valorant": [
       {
@@ -334,8 +334,8 @@
         "id": 1683188,
         "league": "Exort Fiesta",
         "tournament": "Playoffs",
-        "team_a": "UNiTY esports",
-        "team_b": "ILLYRIANS",
+        "team_a": "ILLYRIANS",
+        "team_b": "UNiTY esports",
         "begin_at": "2026-09-22T08:00:00Z",
         "status": "not_started",
         "streams": [
