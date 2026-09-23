@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:43:18.470915+00:00",
+  "generated_at": "2026-09-23T05:15:49.283008+00:00",
   "matches": {
     "valorant": [
       {
@@ -280,138 +280,115 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1700577,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "FlyQuest RED",
-        "team_b": "Marsborne",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "id": 1699312,
+        "league": "CCT Europe",
+        "tournament": "Group A",
+        "team_a": "Saint Sinners",
+        "team_b": "Morrow Esports",
+        "begin_at": "2026-09-23T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/karmaflexxx",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/floofys",
+            "url": "https://kick.com/cct_cs2",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700576,
-        "league": "ESL Challenger League",
+        "id": 1695726,
+        "league": "United21",
         "tournament": "Playoffs",
-        "team_a": "Iowa Stormboar",
-        "team_b": "Wanted Goons",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "team_a": "Teletubisie",
+        "team_b": "OldMix",
+        "begin_at": "2026-09-23T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/iowastormboar",
+            "url": "https://kick.com/united21_en",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700575,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "FarmVille",
-        "team_b": "NuTorious",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "id": 1684168,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Group Stage",
+        "team_a": "INOX Division",
+        "team_b": "G2 Ares",
+        "begin_at": "2026-09-23T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/iamfusiion",
+            "url": "https://kick.com/nodwin_cs2",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700574,
-        "league": "ESL Challenger League",
+        "id": 1683293,
+        "league": "European Pro League",
         "tournament": "Playoffs",
-        "team_a": "regain",
-        "team_b": "MarcaRegistrada",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "team_a": "QUAZAR",
+        "team_b": "Misa Esports",
+        "begin_at": "2026-09-23T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/regaincs",
+            "url": "https://kick.com/eplcs_en",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700573,
+        "id": 1704612,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "FRZ Unit",
-        "team_b": "Overtake Sector",
-        "begin_at": "2026-09-23T01:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/bonamant",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700572,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Villainous",
-        "team_b": "New Legends",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "team_a": "THUNDER dOWNUNDER",
+        "team_b": "Arcade Esports",
+        "begin_at": "2026-09-23T09:00:00Z",
         "status": "not_started",
         "streams": []
       },
       {
         "game": "cs2",
-        "id": 1700571,
+        "id": 1704611,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "Club 333",
-        "team_b": "Detonate",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "team_a": "Ground Zero",
+        "team_b": "Abyssal",
+        "begin_at": "2026-09-23T09:00:00Z",
         "status": "not_started",
-        "streams": [
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/sv_theunknown",
-            "official": true
-          }
-        ]
+        "streams": []
       },
       {
         "game": "cs2",
-        "id": 1700569,
+        "id": 1704610,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
-        "team_a": "LAG Gaming",
-        "team_b": "Zomblers",
-        "begin_at": "2026-09-23T01:00:00Z",
+        "team_a": "Mindfreak",
+        "team_b": "Rooster",
+        "begin_at": "2026-09-23T09:00:00Z",
         "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/endiezcasts",
-            "official": true
-          }
-        ]
+        "streams": []
+      },
+      {
+        "game": "cs2",
+        "id": 1704609,
+        "league": "ESL Challenger League",
+        "tournament": "Playoffs",
+        "team_a": "FlyQuest",
+        "team_b": "Orgless",
+        "begin_at": "2026-09-23T09:00:00Z",
+        "status": "not_started",
+        "streams": []
       }
     ]
   }
