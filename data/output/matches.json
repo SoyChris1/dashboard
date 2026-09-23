@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:15:49.488546+00:00",
+  "generated_at": "2026-09-23T00:43:18.470915+00:00",
   "matches": {
     "valorant": [
       {
@@ -280,150 +280,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1700616,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Damajuana",
-        "team_b": "Bounty Hunters Esports",
-        "begin_at": "2026-09-22T21:05:29Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/lorranbs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700609,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Galorys",
-        "team_b": "EXODIA",
-        "begin_at": "2026-09-22T21:10:38Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700611,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Isurus",
-        "team_b": "METANOIA WOLVES",
-        "begin_at": "2026-09-22T21:11:35Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/analyticvictor",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700615,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Turma do Pagode",
-        "team_b": "MEIA NOITE",
-        "begin_at": "2026-09-22T21:16:21Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/tris_mara",
-            "official": false
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/cmarty",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700610,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Low Cortisol",
-        "team_b": "Yawara Esports",
-        "begin_at": "2026-09-22T21:16:31Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700612,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Grêmio Esports",
-        "team_b": "Keyd",
-        "begin_at": "2026-09-22T21:16:36Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/watchfulTVb",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/vanfantv",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700614,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Procyon Gaming",
-        "team_b": "ALKA GAMING",
-        "begin_at": "2026-09-22T21:16:45Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/karmaflexxx",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/dutchboycasts",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1702581,
-        "league": "CCT South America",
-        "tournament": "Group Stage",
-        "team_a": "BESTIA Academy",
-        "team_b": "Zetta Games",
-        "begin_at": "2026-09-22T22:05:28Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/betboom_cs_ru5",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1700577,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
@@ -432,6 +288,11 @@
         "begin_at": "2026-09-23T01:00:00Z",
         "status": "not_started",
         "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/karmaflexxx",
+            "official": false
+          },
           {
             "language": "en",
             "url": "https://www.twitch.tv/floofys",
@@ -448,7 +309,13 @@
         "team_b": "Wanted Goons",
         "begin_at": "2026-09-23T01:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/iowastormboar",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -459,7 +326,13 @@
         "team_b": "NuTorious",
         "begin_at": "2026-09-23T01:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/iamfusiion",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -470,7 +343,13 @@
         "team_b": "MarcaRegistrada",
         "begin_at": "2026-09-23T01:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/regaincs",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -481,7 +360,13 @@
         "team_b": "Overtake Sector",
         "begin_at": "2026-09-23T01:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/bonamant",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
