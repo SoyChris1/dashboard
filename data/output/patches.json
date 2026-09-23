@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:00:27.153979+00:00",
+  "generated_at": "2026-09-23T18:59:49.345879+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
@@ -11,10 +11,10 @@
     },
     "lol": {
       "game": "lol",
-      "title": "League of Legends Patch 26.19 Notes",
-      "url": "https://www.leagueoflegends.com/en-us/news/game-updates/league-of-legends-patch-26-19-notes",
+      "title": "Brave the Seas of BilgewaterRide the waves into battle with the original versions of Fizz, Nami, Nautilus, and Graves, now available in League Classic.",
+      "url": "https://www.leagueoflegends.com/news/game-updates/league-of-legends-patch-26-19-notes/#patch-classic",
       "date": null,
-      "description": "Worlds is right around the corner, more “new” champs join Classic, and Arena’s got fresh Augments!",
+      "description": null,
       "image": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/42ec56c9308464c0c64034d6bcf691fdb14ad377-1920x1149.jpg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center"
     },
     "valorant": {
