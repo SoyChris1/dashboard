@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-23T22:13:29.593685+00:00",
+  "generated_at": "2026-09-24T00:33:48.210951+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
       "title": "Counter-Strike 2 Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498216924",
-      "date": "2026-09-22T23:37:36+00:00",
-      "description": "\\Updated the map selection process to give players more opportunities to play maps they've been learning.Map selection process:Team 1 picks one mapTeam 2 picks two mapsTeam 1 picks a final map. One of",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795",
+      "date": "2026-09-23T23:07:24+00:00",
+      "description": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies t",
       "image": null
     },
     "lol": {
