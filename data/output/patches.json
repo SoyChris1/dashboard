@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-24T19:22:45.567506+00:00",
+  "generated_at": "2026-09-24T22:38:40.830722+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
       "title": "Counter-Strike 2 Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498219795",
-      "date": "2026-09-23T23:07:24+00:00",
-      "description": "\\Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.The countdown-after-elimination time does not activate in cases where an entire team dies t",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
+      "date": "2026-09-24T21:51:38+00:00",
+      "description": "\\Added a better description of the rules to the loading screen.Adjusted rules for determining when to kick players due to team damage.Various clipping adjustments.\\Fixed a case where it was possible t",
       "image": null
     },
     "lol": {
