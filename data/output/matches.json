@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:33:48.210951+00:00",
+  "generated_at": "2026-09-24T05:22:12.436690+00:00",
   "matches": {
     "valorant": [
       {
@@ -280,142 +280,162 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1700626,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Semente do Mal",
-        "team_b": "ALKA GAMING",
-        "begin_at": "2026-09-23T21:27:01Z",
-        "status": "running",
+        "id": 1706588,
+        "league": "Leon.bet Masters",
+        "tournament": "Group A",
+        "team_a": "Nordic Partners Gaming ",
+        "team_b": "REVENIX",
+        "begin_at": "2026-09-24T08:00:00Z",
+        "status": "not_started",
         "streams": [
           {
-            "language": "es",
-            "url": "https://www.twitch.tv/sv_theunknown",
+            "language": "en",
+            "url": "https://www.twitch.tv/leonbet_en2",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/leonbet_cis",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1706587,
+        "league": "Leon.bet Masters",
+        "tournament": "Group A",
+        "team_a": "Fluxo W7M",
+        "team_b": "FC Famalicão Esports",
+        "begin_at": "2026-09-24T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/leonbet_en2",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/leonbet_cis",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1699319,
+        "league": "CCT Europe",
+        "tournament": "Group C",
+        "team_a": "Entropy",
+        "team_b": "eternal premium",
+        "begin_at": "2026-09-24T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs2",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/betboom_cs_ru4",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1695726,
+        "league": "United21",
+        "tournament": "Playoffs",
+        "team_a": "Teletubisie",
+        "team_b": "OldMix",
+        "begin_at": "2026-09-24T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/united21_en",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700589,
-        "league": "ESL Challenger League",
+        "id": 1683295,
+        "league": "European Pro League",
         "tournament": "Playoffs",
-        "team_a": "Wanted Goons",
-        "team_b": "FlyQuest RED",
-        "begin_at": "2026-09-24T01:00:00Z",
+        "team_a": "The Last Resort",
+        "team_b": "Nexus",
+        "begin_at": "2026-09-24T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/floofys",
+            "url": "https://kick.com/eplcs_en",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700588,
-        "league": "ESL Challenger League",
+        "id": 1681137,
+        "league": "CCT Europe",
         "tournament": "Playoffs",
-        "team_a": "MarcaRegistrada",
-        "team_b": "NuTorious",
-        "begin_at": "2026-09-24T01:00:00Z",
+        "team_a": "Nemiga",
+        "team_b": "Just Players",
+        "begin_at": "2026-09-24T08:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/sv_theunknown",
+            "url": "https://kick.com/cct_cs2",
             "official": true
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700587,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "New Legends",
-        "team_b": "FRZ Unit",
-        "begin_at": "2026-09-24T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700586,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Zomblers",
-        "team_b": "Club 333",
-        "begin_at": "2026-09-24T01:00:00Z",
+        "id": 1706590,
+        "league": "Leon.bet Masters",
+        "tournament": "Group A",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-24T09:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/ynotcs2",
+            "url": "https://www.twitch.tv/leonbet_en2",
             "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/leonbet_cis",
+            "official": false
           }
         ]
       },
       {
         "game": "cs2",
-        "id": 1700582,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Iowa Stormboar",
-        "team_b": "Marsborne",
-        "begin_at": "2026-09-24T01:00:00Z",
+        "id": 1706589,
+        "league": "Leon.bet Masters",
+        "tournament": "Group A",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-24T09:00:00Z",
         "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/karmaflexxx",
+            "url": "https://www.twitch.tv/leonbet_en2",
             "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700581,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "regain",
-        "team_b": "FarmVille",
-        "begin_at": "2026-09-24T01:00:00Z",
-        "status": "not_started",
-        "streams": [
+          },
           {
-            "language": "en",
-            "url": "https://www.twitch.tv/regaincs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700580,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Villainous",
-        "team_b": "Overtake Sector",
-        "begin_at": "2026-09-24T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700578,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "LAG Gaming",
-        "team_b": "Detonate",
-        "begin_at": "2026-09-24T01:00:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/blakert_cs",
-            "official": true
+            "language": "ru",
+            "url": "https://www.twitch.tv/leonbet_cis",
+            "official": false
           }
         ]
       }
