@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:38:40.830722+00:00",
+  "generated_at": "2026-09-25T00:52:42.638779+00:00",
   "matches": {
     "valorant": [
       {
@@ -278,79 +278,6 @@
       }
     ],
     "cs2": [
-      {
-        "game": "cs2",
-        "id": 1706586,
-        "league": "Leon.bet Masters",
-        "tournament": "Group B",
-        "team_a": "largadosypelados",
-        "team_b": "BASEMENT BOYS",
-        "begin_at": "2026-09-24T20:40:37Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/leonbet_en",
-            "official": true
-          },
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/leonbet_cis",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700632,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Low Cortisol",
-        "team_b": "MEIA NOITE",
-        "begin_at": "2026-09-24T21:06:09Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://kick.com/dutchboycasts",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700629,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Bounty Hunters Esports",
-        "team_b": "Yawara Esports",
-        "begin_at": "2026-09-24T21:08:36Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/vanfantv",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700631,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Keyd",
-        "team_b": "ALKA GAMING",
-        "begin_at": "2026-09-24T21:19:01Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/eslcs",
-            "official": true
-          }
-        ]
-      },
       {
         "game": "cs2",
         "id": 1700593,
