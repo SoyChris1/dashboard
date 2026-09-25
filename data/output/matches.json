@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:52:42.638779+00:00",
+  "generated_at": "2026-09-25T05:52:40.083060+00:00",
   "matches": {
     "valorant": [
       {
@@ -280,50 +280,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1700593,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Detonate",
-        "team_b": "Wanted Goons",
-        "begin_at": "2026-09-25T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700592,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Villainous",
-        "team_b": "NuTorious",
-        "begin_at": "2026-09-25T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700591,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "FarmVille",
-        "team_b": "Unreal Nightmare ",
-        "begin_at": "2026-09-25T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700590,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Iowa Stormboar",
-        "team_b": "Club 333",
-        "begin_at": "2026-09-25T01:00:00Z",
-        "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
         "id": 1706568,
         "league": "Leon.bet Masters",
         "tournament": "Group C",
@@ -402,6 +358,84 @@
             "language": "en",
             "url": "https://kick.com/nodwin_cs2",
             "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1684034,
+        "league": "Stake Pulse",
+        "tournament": "Playoffs",
+        "team_a": "Heroic",
+        "team_b": "fnatic",
+        "begin_at": "2026-09-25T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/stake_pulse",
+            "official": true
+          },
+          {
+            "language": "en",
+            "url": "https://kick.com/stake_cs2",
+            "official": false
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1683297,
+        "league": "European Pro League",
+        "tournament": "Playoffs",
+        "team_a": "WRAITH PCIFIC",
+        "team_b": "Bebop",
+        "begin_at": "2026-09-25T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/eplcs_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1681142,
+        "league": "CCT Europe",
+        "tournament": "Playoffs",
+        "team_a": "Walczaki",
+        "team_b": "ENCE",
+        "begin_at": "2026-09-25T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1706570,
+        "league": "Leon.bet Masters",
+        "tournament": "Group C",
+        "team_a": "TBD",
+        "team_b": "TBD",
+        "begin_at": "2026-09-25T09:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/leonbet_en",
+            "official": true
+          },
+          {
+            "language": "ru",
+            "url": "https://www.twitch.tv/leonbet_cis",
+            "official": false
           }
         ]
       }
