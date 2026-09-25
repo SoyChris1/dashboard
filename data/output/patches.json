@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-25T19:46:16.168796+00:00",
+  "generated_at": "2026-09-25T22:50:38.799778+00:00",
   "patches": {
     "cs2": {
       "game": "cs2",
       "title": "Counter-Strike 2 Update",
-      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
-      "date": "2026-09-24T21:51:38+00:00",
-      "description": "\\Added a better description of the rules to the loading screen.Adjusted rules for determining when to kick players due to team damage.Various clipping adjustments.\\Fixed a case where it was possible t",
+      "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498226015",
+      "date": "2026-09-25T21:54:54+00:00",
+      "description": "\\Various gap fixes and clipping adjustments.\\Fixed some cases where loud reloads would persist while trying to stealth reload.\\Added sv_clantags_enabled option so custom servers can disable clan tags.",
       "image": null
     },
     "lol": {
