@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T22:50:38.799778+00:00",
+  "generated_at": "2026-09-26T01:06:39.170055+00:00",
   "matches": {
     "valorant": [
       {
@@ -142,48 +142,6 @@
     "lol": [
       {
         "game": "lol",
-        "id": 1662459,
-        "league": "LCS",
-        "tournament": "Playoffs",
-        "team_a": "FlyQuest",
-        "team_b": "Shopify Rebellion",
-        "begin_at": "2026-09-25T20:03:50Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "vi",
-            "url": "https://www.twitch.tv/goatlamsung",
-            "official": false
-          },
-          {
-            "language": "es",
-            "url": "https://www.twitch.tv/lolesportsla",
-            "official": false
-          },
-          {
-            "language": "fr",
-            "url": "https://www.twitch.tv/zerotick_",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/lcs",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.youtube.com/watch?v=GpKG6swPFlI",
-            "official": false
-          },
-          {
-            "language": "ko",
-            "url": "https://play.sooplive.co.kr/leclcs",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "lol",
         "id": 1615367,
         "league": "VCS",
         "tournament": "Playoffs",
@@ -291,146 +249,6 @@
     "cs2": [
       {
         "game": "cs2",
-        "id": 1686134,
-        "league": "1win",
-        "tournament": "Playoffs",
-        "team_a": "GamerLegion",
-        "team_b": "K27",
-        "begin_at": "2026-09-25T20:57:56Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/stariy_bog",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700633,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Yawara Esports",
-        "team_b": "Grêmio Esports",
-        "begin_at": "2026-09-25T21:09:33Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://kick.com/tris_mara",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700622,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "Procyon Gaming",
-        "team_b": "Turma do Pagode",
-        "begin_at": "2026-09-25T21:09:54Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/vilacattv",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1700634,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "ALKA GAMING",
-        "team_b": "MEIA NOITE",
-        "begin_at": "2026-09-25T21:13:23Z",
-        "status": "running",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1702593,
-        "league": "CCT South America",
-        "tournament": "Group Stage",
-        "team_a": "BESTIA Academy",
-        "team_b": "Semente do Mal",
-        "begin_at": "2026-09-25T22:10:25Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "ru",
-            "url": "https://www.twitch.tv/betboom_cs_ru5",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://kick.com/cct_cs3",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1696307,
-        "league": "iBUYPOWER Masters",
-        "tournament": "Group A",
-        "team_a": "Chicken Coop Esports",
-        "team_b": "Wildcard",
-        "begin_at": "2026-09-25T22:48:58Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/MythicLeague",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1710824,
-        "league": "Gamers Club Liga Série A",
-        "tournament": "Group C",
-        "team_a": "MIBR fe",
-        "team_b": "???",
-        "begin_at": "2026-09-25T22:49:37Z",
-        "status": "running",
-        "streams": [
-          {
-            "language": "pt",
-            "url": "https://www.twitch.tv/gamersclubcs",
-            "official": true
-          }
-        ]
-      },
-      {
-        "game": "cs2",
-        "id": 1696306,
-        "league": "iBUYPOWER Masters",
-        "tournament": "Group A",
-        "team_a": "Liquid",
-        "team_b": "NRG",
-        "begin_at": "2026-09-25T22:45:00Z",
-        "status": "not_started",
-        "streams": [
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fl0m",
-            "official": true
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/MythicLeague",
-            "official": false
-          }
-        ]
-      },
-      {
-        "game": "cs2",
         "id": 1700595,
         "league": "ESL Challenger League",
         "tournament": "Playoffs",
@@ -438,7 +256,13 @@
         "team_b": "Detonate",
         "begin_at": "2026-09-26T01:00:00Z",
         "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/eslcs",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -449,18 +273,13 @@
         "team_b": "FarmVille",
         "begin_at": "2026-09-26T01:00:00Z",
         "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1700584,
-        "league": "ESL Challenger League",
-        "tournament": "Playoffs",
-        "team_a": "regain",
-        "team_b": "Marsborne",
-        "begin_at": "2026-09-26T01:00:00Z",
-        "status": "not_started",
-        "streams": []
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/blakert_cs",
+            "official": true
+          }
+        ]
       },
       {
         "game": "cs2",
@@ -471,26 +290,10 @@
         "team_b": "Overtake Sector",
         "begin_at": "2026-09-26T01:00:00Z",
         "status": "not_started",
-        "streams": []
-      },
-      {
-        "game": "cs2",
-        "id": 1696336,
-        "league": "iBUYPOWER Masters",
-        "tournament": "Group B",
-        "team_a": "M80",
-        "team_b": "DENDELE CS",
-        "begin_at": "2026-09-26T02:00:00Z",
-        "status": "not_started",
         "streams": [
           {
             "language": "en",
-            "url": "https://www.twitch.tv/MythicLeague",
-            "official": false
-          },
-          {
-            "language": "en",
-            "url": "https://www.twitch.tv/fl0m",
+            "url": "https://www.twitch.tv/endiezcasts",
             "official": true
           }
         ]
@@ -502,7 +305,29 @@
         "tournament": "Group B",
         "team_a": "BESTIA",
         "team_b": "Voca",
-        "begin_at": "2026-09-26T02:00:00Z",
+        "begin_at": "2026-09-26T01:15:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "es",
+            "url": "https://kick.com/elmorocho7",
+            "official": false
+          },
+          {
+            "language": "en",
+            "url": "https://www.twitch.tv/fl0m",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1696336,
+        "league": "iBUYPOWER Masters",
+        "tournament": "Group B",
+        "team_a": "M80",
+        "team_b": "DENDELE CS",
+        "begin_at": "2026-09-26T01:30:00Z",
         "status": "not_started",
         "streams": [
           {
@@ -530,6 +355,40 @@
           {
             "language": "en",
             "url": "https://kick.com/united21_en",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1699313,
+        "league": "CCT Europe",
+        "tournament": "Group A",
+        "team_a": "Saint Sinners",
+        "team_b": "Mai Tai",
+        "begin_at": "2026-09-26T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/cct_cs2",
+            "official": true
+          }
+        ]
+      },
+      {
+        "game": "cs2",
+        "id": 1684175,
+        "league": "NODWIN Clutch Series",
+        "tournament": "Playoffs",
+        "team_a": "WW Team",
+        "team_b": "Color",
+        "begin_at": "2026-09-26T08:00:00Z",
+        "status": "not_started",
+        "streams": [
+          {
+            "language": "en",
+            "url": "https://kick.com/nodwin_cs2",
             "official": true
           }
         ]
